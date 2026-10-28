@@ -16,5 +16,8 @@ window.MHP = {
   // Founders' Room places taken (update by hand until the app counts it).
   foundersTaken: 0,
   // Cohort 1 start date in words, once published.
-  cohortDate: ""
+  cohortDate: "",
+  // Testimonial form: an endpoint that accepts a POST (Growth HQ, Brevo form, or a form service). Blank = email fallback.
+  storyFormAction: "",
+  storyEmail: "martin@propinvestuk.co.uk"
 };
