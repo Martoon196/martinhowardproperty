@@ -13,6 +13,9 @@
         live.querySelector('[data-join]').style.display = 'none';
       }
     }
+    document.querySelectorAll('[data-window-ends]').forEach(function(el){ el.textContent = cfg.windowEnds ? ('The current window ends on ' + cfg.windowEnds + '.') : ''; });
+    document.querySelectorAll('[data-founders-count]').forEach(function(el){ el.textContent = String(cfg.foundersTaken || 0); });
+    document.querySelectorAll('[data-cohort-date]').forEach(function(el){ if (cfg.cohortDate) el.textContent = cfg.cohortDate; });
     var rep = document.getElementById('mhp-replay');
     if (rep) {
       if (cfg.replayUrl) {

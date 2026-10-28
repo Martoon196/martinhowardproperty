@@ -10,5 +10,11 @@ window.MHP = {
   zoomJoinUrl: "",
   // Replay: a Zoom cloud recording share link, or a YouTube/Vimeo embed URL, once the call has happened.
   replayUrl: "",
-  replayPasscode: ""
+  replayPasscode: "",
+  // Webinar price window: the date in words the £997 price ends, e.g. "Wednesday 11 November". Blank hides the line.
+  windowEnds: "",
+  // Founders' Room places taken (update by hand until the app counts it).
+  foundersTaken: 0,
+  // Cohort 1 start date in words, once published.
+  cohortDate: ""
 };
