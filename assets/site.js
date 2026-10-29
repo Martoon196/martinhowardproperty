@@ -82,9 +82,21 @@
         rep.querySelector('[data-state]').textContent = 'The replay goes up the morning after the webinar (Thursday 5 November). Register below and it comes to your inbox.';
       }
     }
+    // ---- thanks page: tailor the message to the form that sent people here
+    var thanks = document.querySelector('[data-thanks-msg]');
+    if (thanks) {
+      var kind = new URLSearchParams(location.search).get('for');
+      var msgs = {
+        webinar: "You're registered. Your confirmation email is on its way, with a reminder the day before and an hour before. If it isn't there in a few minutes, look in spam or promotions and drag it into your inbox so the joining link lands.",
+        story: "Thank you. Martin reads every story himself. You'll see the final wording before anything is used, and nothing goes out without your say-so.",
+        waitlist: "You're on the list. You'll hear first when the next course intake opens."
+      };
+      if (msgs[kind]) thanks.textContent = msgs[kind];
+    }
     document.querySelectorAll('form[data-mhp-form]').forEach(function(form){
-      if (cfg.brevoFormAction) {
-        form.action = cfg.brevoFormAction;
+      var action = cfg.formAction || cfg.brevoFormAction;
+      if (action) {
+        form.action = action;
         form.method = 'POST';
       } else {
         form.addEventListener('submit', function(e){

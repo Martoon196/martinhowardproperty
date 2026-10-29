@@ -1,6 +1,9 @@
-// One place to wire the site to Brevo. Fill in and commit.
+// One place to wire the site to the members app. Fill in and commit.
 window.MHP = {
-  // Brevo form action URL (Contacts > Forms > your form > Share > "Integrate" > copy the form's action="..." URL).
+  // Sign-up forms (cheat sheets, webinar, waitlist). Once the app release is live:
+  // "https://app.martinhowardproperty.co.uk/api/mhp/subscribe". Blank = forms show a "sign-up opens shortly" note.
+  formAction: "",
+  // Old Brevo form action, kept only as a fallback. Leave blank.
   brevoFormAction: "",
   // Brevo redirect page after a successful submit (set the same URL inside the Brevo form settings).
   thanksUrl: "/thanks/",
@@ -17,7 +20,7 @@ window.MHP = {
   foundersTaken: 0,
   // Cohort 1 start date in words, once published.
   cohortDate: "",
-  // Testimonial form: an endpoint that accepts a POST (Growth HQ, Brevo form, or a form service). Blank = email fallback.
+  // Testimonial form. Once the app release is live: "https://app.martinhowardproperty.co.uk/api/mhp/story". Blank = email fallback.
   storyFormAction: "",
   storyEmail: "martin@propinvestuk.co.uk"
 };
