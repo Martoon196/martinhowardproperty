@@ -2,7 +2,7 @@
 window.MHP = {
   // Sign-up forms (cheat sheets, webinar, waitlist). Once the app release is live:
   // "https://app.martinhowardproperty.co.uk/api/mhp/subscribe". Blank = forms show a "sign-up opens shortly" note.
-  formAction: "",
+  formAction: "https://app.martinhowardproperty.co.uk/api/mhp/subscribe",
   // Old Brevo form action, kept only as a fallback. Leave blank.
   brevoFormAction: "",
   // Brevo redirect page after a successful submit (set the same URL inside the Brevo form settings).
@@ -21,6 +21,6 @@ window.MHP = {
   // Cohort 1 start date in words, once published.
   cohortDate: "",
   // Testimonial form. Once the app release is live: "https://app.martinhowardproperty.co.uk/api/mhp/story". Blank = email fallback.
-  storyFormAction: "",
+  storyFormAction: "https://app.martinhowardproperty.co.uk/api/mhp/story",
   storyEmail: "martin@propinvestuk.co.uk"
 };
