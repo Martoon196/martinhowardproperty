@@ -54,12 +54,26 @@
     }
     var live = document.getElementById('mhp-live');
     if (live) {
-      if (cfg.zoomJoinUrl) {
-        live.querySelector('[data-join]').href = cfg.zoomJoinUrl;
-        live.querySelector('[data-state]').textContent = 'Opening Zoom. If nothing happens, press the button.';
-        setTimeout(function(){ window.location.href = cfg.zoomJoinUrl; }, 1500);
+      if (cfg.youtubeLiveId && /^[A-Za-z0-9_-]{11}$/.test(cfg.youtubeLiveId)) {
+        var vid = cfg.youtubeLiveId;
+        var player = document.createElement('iframe');
+        player.src = 'https://www.youtube.com/embed/' + vid + '?rel=0&modestbranding=1';
+        player.title = 'Too Many Ideas, Not Enough Income, live';
+        player.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
+        player.setAttribute('allowfullscreen', '');
+        player.referrerPolicy = 'strict-origin-when-cross-origin';
+        player.style.cssText = 'width:100%;aspect-ratio:16/9;border:0;border-radius:12px;background:#142019';
+        live.querySelector('[data-player]').replaceWith(player);
+        var chat = document.createElement('iframe');
+        chat.src = 'https://www.youtube.com/live_chat?v=' + vid + '&embed_domain=' + location.hostname;
+        chat.title = 'Live questions';
+        chat.referrerPolicy = 'strict-origin-when-cross-origin';
+        chat.style.cssText = 'width:100%;height:520px;border:1px solid #E2E5E0;border-radius:12px;background:#FFFFFF';
+        live.querySelector('[data-chat]').replaceWith(chat);
+        live.querySelector('[data-join]').href = 'https://www.youtube.com/live/' + vid;
+        live.querySelector('[data-state]').textContent = 'The stream starts at 7:30pm UK and opens here. Ask questions in the chat (you need to be signed in to YouTube to type). There is no attendee list: only your YouTube name shows, and only if you post in the chat.';
       } else {
-        live.querySelector('[data-state]').textContent = 'The Zoom link goes live on the day. Check the email you registered with, or register below.';
+        live.querySelector('[data-state]').textContent = 'The watch link goes live on the day. Check the email you registered with, or register below.';
         live.querySelector('[data-join]').style.display = 'none';
       }
     }
@@ -68,10 +82,12 @@
     document.querySelectorAll('[data-cohort-date]').forEach(function(el){ if (cfg.cohortDate) el.textContent = cfg.cohortDate; });
     var rep = document.getElementById('mhp-replay');
     if (rep) {
+      var replayReady = cfg.youtubeLiveId && cfg.replayFrom && Date.now() >= Date.parse(cfg.replayFrom);
+      if (!cfg.replayUrl && replayReady) cfg.replayUrl = 'https://www.youtube.com/embed/' + cfg.youtubeLiveId + '?rel=0';
       if (cfg.replayUrl) {
         var isEmbed = /youtube[.]com[/]embed|player[.]vimeo[.]com/.test(cfg.replayUrl);
         if (isEmbed) {
-          var f = document.createElement('iframe'); f.src = cfg.replayUrl; f.title = 'Webinar replay'; f.allow = 'fullscreen'; f.setAttribute('allowfullscreen',''); f.style.cssText='width:100%;aspect-ratio:16/9;border:0;border-radius:12px;background:#142019';
+          var f = document.createElement('iframe'); f.src = cfg.replayUrl; f.title = 'Webinar replay'; f.allow = 'fullscreen'; f.setAttribute('allowfullscreen',''); f.referrerPolicy = 'strict-origin-when-cross-origin'; f.style.cssText='width:100%;aspect-ratio:16/9;border:0;border-radius:12px;background:#142019';
           rep.querySelector('[data-player]').replaceWith(f);
         } else {
           var a = rep.querySelector('[data-open]'); a.href = cfg.replayUrl; a.style.display='inline-flex';

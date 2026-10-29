@@ -8,10 +8,12 @@ window.MHP = {
   // Brevo redirect page after a successful submit (set the same URL inside the Brevo form settings).
   thanksUrl: "/thanks/",
   // Webinar details shown on the registration page.
-  webinarDate: "Wednesday 4 November, 7:30pm UK, on Zoom",
-  // Zoom join link for the live webinar (paste the full https://...zoom.us/j/... URL).
-  zoomJoinUrl: "",
-  // Replay: a Zoom cloud recording share link, or a YouTube/Vimeo embed URL, once the call has happened.
+  webinarDate: "Wednesday 4 November, 7:30pm UK, on YouTube Live",
+  // YouTube live stream video ID (the part after youtube.com/live/). Unlisted stream on the Martin Howard channel.
+  youtubeLiveId: "wFXgw_dPl-A",
+  // From this time the replay page plays the same YouTube video as the recording (UTC; 08:00 UK on Thursday 5 November).
+  replayFrom: "2026-11-05T08:00:00Z",
+  // Optional override: a different replay URL (YouTube/Vimeo embed or a share link). Leave blank to use the stream above.
   replayUrl: "",
   replayPasscode: "",
   // Webinar price window: the date in words the £997 price ends, e.g. "Wednesday 11 November". Blank hides the line.
