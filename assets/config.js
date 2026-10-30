@@ -17,12 +17,21 @@ window.MHP = {
   replayUrl: "",
   replayPasscode: "",
   // Webinar price window: the date in words the £997 price ends, e.g. "Wednesday 11 November". Blank hides the line.
-  windowEnds: "",
+  windowEnds: "Wednesday 11 November at 7:30pm GMT",
   // Founders' Room places taken (update by hand until the app counts it).
   foundersTaken: 0,
   // Cohort 1 start date in words, once published.
   cohortDate: "",
   // Testimonial form. Once the app release is live: "https://app.martinhowardproperty.co.uk/api/mhp/story". Blank = email fallback.
   storyFormAction: "https://app.martinhowardproperty.co.uk/api/mhp/story",
-  storyEmail: "martin@propinvestuk.co.uk"
+  storyEmail: "martin@propinvestuk.co.uk",
+  // Mentoring applications. Once the app release with /api/mhp/apply is live:
+  // "https://app.martinhowardproperty.co.uk/api/mhp/apply". Blank = the form opens an email with the answers.
+  applyAction: "",
+  // Cookieless page-event counter. Once live: "https://app.martinhowardproperty.co.uk/api/mhp/event". Blank = off.
+  eventEndpoint: "",
+  // Calendar booking link for the Income Path Call. Blank = "I'll email you within one working day".
+  bookingUrl: "",
+  // Set to true once the app accepts webinar sign-ups without marketing consent (same release as applyAction).
+  webinarConsentOptional: false
 };

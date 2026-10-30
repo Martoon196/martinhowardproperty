@@ -103,7 +103,7 @@
     if (thanks) {
       var kind = new URLSearchParams(location.search).get('for');
       var msgs = {
-        webinar: "You're registered. Your confirmation email is on its way, with a reminder the day before and an hour before. If it isn't there in a few minutes, look in spam or promotions and drag it into your inbox so the joining link lands.",
+        webinar: "You're registered for Wednesday 4 November at 7:30pm GMT. Your confirmation email is on its way, with a reminder the day before and an hour before. If it isn't there in a few minutes, look in spam or promotions and drag it into your inbox so the watch link lands. Before Wednesday, take the First Door check at martinhowardproperty.co.uk/webinar/diagnostic: eight questions, about three minutes.",
         story: "Thank you. Martin reads every story himself. You'll see the final wording before anything is used, and nothing goes out without your say-so.",
         waitlist: "You're on the list. You'll hear first when the next course intake opens."
       };
