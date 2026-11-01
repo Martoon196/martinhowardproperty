@@ -69,7 +69,7 @@
           risk: ['Long gaps with no fee', 'Skipping the registrations is a real legal risk', 'Inviting people to invest money in deals is a financial promotion with its own rules'],
           d2: 'Read the sourcing compliance stack and price it for yourself.', d3: 'Pick one postcode area and learn its prices and rents.', d6: 'Complete one deal sheet on a real listing. Practice only: no fee conversations until the registrations are done.' },
         Run: { why: 'Running property suits people who like operations and people, and can carry monthly costs while income settles.',
-          req: ['10 to 20 hours a week, and answering the phone at 9pm', 'Working capital, roughly £5,000 to £15,000 (example figures)', 'In Wales, Rent Smart Wales training and a licence; owner and lender consent in writing; HMO licensing where it applies'],
+          req: ['10 to 20 hours a week, and answering the phone at 9pm', 'Working capital, roughly £5,000 to £25,000 (example figures)', 'In Wales, Rent Smart Wales training and a licence; owner and lender consent in writing; HMO licensing where it applies'],
           risk: ['Costs are monthly and certain; income is monthly and not', 'Agreements without owner or lender consent can unravel'],
           d2: 'Read the licensing and consent rules for your area (Rent Smart Wales in Wales).', d3: 'Cost one month of running a property, including voids and repairs.', d6: 'Talk to one licensed letting agent or landlord about how they run their properties.' },
         Own: { why: 'Owning suits people with real capital who want long-term assets and can stand values falling for a while.',
