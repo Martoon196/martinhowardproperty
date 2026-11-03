@@ -86,6 +86,7 @@ img{max-width:100%;height:auto}
 <input type="hidden" name="locale" value="en">
 <div class="w-field"><label for="w-fname">First name</label><input id="w-fname" name="FIRSTNAME" type="text" autocomplete="given-name" required></div>
 <div class="w-field"><label for="w-email">Email</label><input id="w-email" name="EMAIL" type="email" autocomplete="email" required></div>
+<div class="w-field" data-phone-field hidden><label for="w-phone">Mobile number <span style="font-weight:400;color:#4A524C">(optional)</span></label><input id="w-phone" name="PHONE" type="tel" autocomplete="tel" inputmode="tel" maxlength="30" pattern="[0-9 +()-]*"><p style="margin:0;font-size:13px;color:#4A524C">For a text or WhatsApp reminder before we start, and the replay link. Nothing else unless you tick the box below.</p></div>
 <div class="w-check"><input id="w-consent" name="OPT_IN" type="checkbox" value="1"><label for="w-consent" data-consent-label>Optional: also send me occasional property tips and offers from Martin. Unsubscribe any time.</label></div>
 <button type="submit" class="w-btn">Reserve my free place</button>
 <p role="status" data-consent-note aria-live="polite" style="margin: 0; font-size: 13px; line-height: 1.5; color: #4A524C;">Registering means we email you about this webinar and its replay only. See the <a href="/privacy/">privacy policy</a>.</p>

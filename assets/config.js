@@ -33,5 +33,7 @@ window.MHP = {
   // Calendar booking link for the Income Path Call. Blank = "I'll email you within one working day".
   bookingUrl: "",
   // Set to true once the app accepts webinar sign-ups without marketing consent (same release as applyAction).
-  webinarConsentOptional: false
+  webinarConsentOptional: false,
+  // Show the optional mobile number on the webinar form. Set to true once the app release that stores PHONE is live.
+  collectPhone: false
 };

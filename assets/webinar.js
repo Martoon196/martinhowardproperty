@@ -23,6 +23,9 @@
       wf.querySelector('[data-consent-note]').innerHTML = 'No card details. See the <a href="/privacy/">privacy policy</a>.';
     }
 
+    // ---- webinar registration: optional mobile number once the app stores it
+    if (wf && cfg.collectPhone) { var pf = wf.querySelector('[data-phone-field]'); if (pf) pf.hidden = false; }
+
     // ---- application received: booking link
     var bk = document.querySelector('[data-booking]');
     if (bk && cfg.bookingUrl) {
