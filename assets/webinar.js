@@ -80,6 +80,55 @@
           risk: ['Values can fall and rates can rise', 'Refurbishments overrun; refinances can come in lower than planned'],
           d2: 'Read how buy-to-let lending and stress tests work.', d3: 'Work out your true deposit: cash minus costs, tax and a reserve.', d6: 'Speak to an independent mortgage broker about what lenders would look at.' }
       };
+      function worksheet(focus) {
+        var fields = [['focus','My focus for the next 90 days',focus],['hours','Hours I can set aside each week',''],
+          ['outcome','One outcome I can control by day 90',''],['day30','By day 30, I will have…',''],
+          ['day60','By day 60, I will have…',''],['day90','By day 90, I will have…',''],
+          ['park','Ideas I will park for now',''],['next','My next action and when I will do it','']];
+        var html = '<section class="d-plan" aria-labelledby="d-plan-title"><h3 class="w-h3" id="d-plan-title">Your 90-day worksheet</h3>' +
+          '<p class="w-p">Make this yours. Write actions you can control, then save your filled plan. Nothing you write here is sent to us.</p><div class="d-plan-fields">';
+        fields.forEach(function(f){ html += '<label class="d-plan-field" for="d-plan-' + f[0] + '">' + f[1] +
+          '<textarea id="d-plan-' + f[0] + '" data-plan-field maxlength="1600" rows="3">' + esc(f[2]) + '</textarea><span class="d-plan-print" aria-hidden="true"></span></label>'; });
+        html += '</div><h3 class="w-h3">Your weekly scorecard</h3><p class="w-p">Record what happened, then choose one next action. Blank is fine until you have something to record.</p>' +
+          '<div class="d-score-scroll"><table class="d-score"><caption>13 weeks: actions and progress</caption><thead><tr><th scope="col">Week</th>';
+        var metrics = ['Hours','Conversations','Appraisals','Set-up items','Money out','Next action'];
+        metrics.forEach(function(label){ html += '<th scope="col">' + label + '</th>'; });
+        html += '</tr></thead><tbody>';
+        for (var week = 1; week <= 13; week++) {
+          html += '<tr><th scope="row">' + week + '</th>';
+          metrics.forEach(function(label,index){ html += '<td><input type="text" id="d-score-' + week + '-' + index + '" data-plan-field aria-label="Week ' + week + ': ' + label + '" maxlength="' + (index === 5 ? 240 : 80) + '"><span class="d-plan-print" aria-hidden="true"></span></td>'; });
+          html += '</tr>';
+        }
+        return html + '</tbody></table></div><div class="d-plan-tools noprint"><button type="button" class="w-btn" id="d-plan-save">Save my filled action plan</button>' +
+          '<button type="button" class="w-btn2" id="d-plan-print">Print / Save as PDF</button></div><p class="mhp-note noprint">The download is an offline HTML snapshot of your filled plan. Keep it on your device; no signup or email is needed.</p>' +
+          '<p id="d-plan-status" class="mhp-note noprint" role="status"></p></section>';
+      }
+      function updatePrintValues() {
+        var result = document.getElementById('d-result');
+        result.querySelectorAll('[data-plan-field]').forEach(function(field){ field.nextElementSibling.textContent = field.value || '—'; });
+      }
+      window.addEventListener('beforeprint', updatePrintValues);
+      function savePlan() {
+        try {
+          var result = document.getElementById('d-result'), copy = result.cloneNode(true);
+          copy.querySelectorAll('.noprint,.d-plan-print').forEach(function(node){ node.remove(); });
+          result.querySelectorAll('[data-plan-field]').forEach(function(field){
+            var target = copy.querySelector('#' + field.id), text = document.createElement('div');
+            text.className = 'd-plan-filled'; text.textContent = field.value || '—'; target.replaceWith(text);
+          });
+          var footer = document.querySelector('footer').cloneNode(true);
+          footer.querySelectorAll('a').forEach(function(link){ link.href = new URL(link.getAttribute('href'), 'https://martinhowardproperty.co.uk/').href; });
+          var style = document.querySelector('style').textContent;
+          var html = '<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">' +
+            '<meta http-equiv="Content-Security-Policy" content="default-src \'none\'; style-src \'unsafe-inline\'; base-uri \'none\'; form-action \'none\'">' +
+            '<title>My First Door Action Plan · Martin Howard Property</title><style>' + style + '</style></head><body><main class="w-wrap d-plan-offline">' +
+            '<h1 class="w-h2">My First Door Action Plan</h1>' + copy.innerHTML + '</main>' + footer.outerHTML + '</body></html>';
+          var url = URL.createObjectURL(new Blob([html], {type:'text/html;charset=utf-8'})), link = document.createElement('a');
+          link.href = url; link.download = 'first-door-action-plan.html'; document.body.appendChild(link); link.click(); link.remove();
+          window.setTimeout(function(){ URL.revokeObjectURL(url); },1000);
+          document.getElementById('d-plan-status').textContent = 'Your download should start now. Open the saved HTML file to keep or print your filled plan offline.';
+        } catch (e) { document.getElementById('d-plan-status').textContent = 'Saving is not available in this browser. Use Print / Save as PDF to keep your filled plan.'; }
+      }
       df.addEventListener('submit', function(e){
         e.preventDefault();
         var a = {}; new FormData(df).forEach(function(v, k){ a[k] = v; });
@@ -97,28 +146,41 @@
           var need = { Source: 'set-up money of around £2,000 or more, at least 5 to 10 hours a week and the compliance work', Run: 'working capital of £5,000 or more, at least 10 hours a week and the licensing work', Own: 'more than £25,000 of your own money, not borrowed' }[want];
           gap = 'You leaned towards ' + want + ', which needs ' + need + '. ' + door + ' is a sensible place to start while that changes.';
         }
-        var html = '';
+        var html = '', weekHtml = '', mentoring = '', actions, focus;
         if (notReady) {
           store('mhp_door', 'Not sure yet');
+          focus = 'Preparation before choosing a door';
+          actions = ['Write down what you spent on your last three ideas.', 'Decide what would need to change to free five hours a week.', 'Start a small buffer that is not your emergency fund.'];
           html = '<p class="w-eyebrow">YOUR RESULT</p><h2 class="w-h2">Not ready yet, and that is a useful answer</h2>' +
-            '<p class="w-p">' + (a.comp === 'no' ? 'Every door has rules: registrations, licences, insurance or written terms. Without the appetite for that part, any route is likely to cost you more than it pays.' : 'With no spare money and under five hours a week, the honest first step is to make some room before starting anything.') + ' That has probably just saved you money.</p>' +
+            '<p class="w-p">' + (a.comp === 'no' ? 'Every door has rules: registrations, licences, insurance or written terms. Without the appetite for that part, any route is likely to cost you more than it pays.' : 'With no spare money and under five hours a week, the honest first step is to make some room before starting anything.') + ' That has probably just saved you money.</p>';
+          weekHtml =
             '<h3 class="w-h3">Your next seven days</h3><ol class="w-ul"><li>Write down what you spent on your last three ideas.</li><li>Decide what would need to change to free five hours a week.</li><li>Start a small buffer that is not your emergency fund.</li><li>Read the free One Lane Picker.</li><li>Watch the replay of the masterclass again with a pen.</li><li>Park every new idea on a later list.</li><li>Come back to this check in 90 days.</li></ol>' +
-            '<div class="noprint" style="display:flex;flex-wrap:wrap;gap:12px"><a class="w-btn2" href="/cheat-sheets/01/">The One Lane Picker (free)</a><button type="button" class="w-btn2" onclick="window.print()">Print or save as PDF</button></div>';
+            '';
         } else {
           var d = DOORS[door]; store('mhp_door', door);
+          focus = door; actions = [d.d2,d.d3,d.d6];
           var prog = a.prog === 'income' ? '<p class="w-p" style="background:#FBEBD3;padding:12px 14px;border-radius:8px"><strong>About first income in 90 days.</strong> It can happen, but nobody honest can promise it. Measure the 90 days in actions you control; money is a lagging number.</p>' : '';
           var stopTip = {ideas:'You said too many ideas stopped you before: park every new idea on a written later list for 90 days.', research:'You said too much research stopped you: set a date after which you stop reading and act.', conf:'You said confidence stopped you: script your first calls and count small, safe reps.', time:'You said time stopped you: put the hours in your calendar as fixed appointments.', money:'You said money stopped you: this door was picked to fit the money you could responsibly use.'}[a.stop];
           html = '<p class="w-eyebrow">YOUR SUGGESTED FIRST DOOR</p><h2 class="w-h2">Door to investigate: ' + door + '</h2>' +
             '<p class="w-p">' + d.why + ' ' + gap + '</p>' + prog +
             '<div class="w-grid"><div class="w-card"><h3 class="w-h3">What it needs</h3><ul class="w-ul" style="font-size:15px">' + d.req.map(function(x){return '<li>'+x+'</li>';}).join('') + '</ul></div>' +
             '<div class="w-card"><h3 class="w-h3">The risks</h3><ul class="w-ul" style="font-size:15px">' + d.risk.map(function(x){return '<li>'+x+'</li>';}).join('') + '</ul></div></div>' +
-            '<h3 class="w-h3">Your first week</h3><ol class="w-ul"><li><strong>Day 1.</strong> Save or print this result.</li><li><strong>Day 2.</strong> ' + d.d2 + '</li><li><strong>Day 3.</strong> ' + d.d3 + '</li><li><strong>Day 4.</strong> Write a one-page 90-day plan for this door.</li><li><strong>Day 5.</strong> Set up a weekly scorecard: hours, conversations, appraisals, set-up items, money out.</li><li><strong>Day 6.</strong> ' + d.d6 + '</li><li><strong>Day 7.</strong> Review the week and pick next week\'s one action.</li></ol>' +
-            '<p class="w-p">' + stopTip + '</p>' +
+            '<p class="w-p">' + stopTip + '</p>';
+          weekHtml = '<h3 class="w-h3">Your first week</h3><ol class="w-ul"><li><strong>Day 1.</strong> Save or print this result.</li><li><strong>Day 2.</strong> ' + d.d2 + '</li><li><strong>Day 3.</strong> ' + d.d3 + '</li><li><strong>Day 4.</strong> Write a one-page 90-day plan for this door.</li><li><strong>Day 5.</strong> Set up a weekly scorecard: hours, conversations, appraisals, set-up items, money out.</li><li><strong>Day 6.</strong> ' + d.d6 + '</li><li><strong>Day 7.</strong> Review the week and pick next week\'s one action.</li></ol>';
+          mentoring =
             '<div class="noprint" style="display:flex;flex-direction:column;gap:12px;background:#142019;color:#F3F4F1;border-radius:12px;padding:22px"><h3 class="w-h3">Want guidance on this?</h3><p style="margin:0;color:#B9C2BC;font-size:15px;line-height:1.55">One Lane Mentoring is a 12-person, 90-day group programme. Founding applications close on Saturday 7 November 2026 at 11:59pm GMT. Applying books a free 20-minute call; it is not a purchase.</p><div style="display:flex;flex-wrap:wrap;gap:12px"><a class="w-btn" href="/webinar/apply/?door=' + encodeURIComponent(door) + '">Apply for a founding place</a><button type="button" class="w-btn2" style="border-color:#F3F4F1;color:#F3F4F1" onclick="window.print()">Print or save as PDF</button></div></div>';
         }
+        html = '<p class="w-eyebrow">YOUR FIRST DOOR ACTION PLAN</p>' + html +
+          '<section aria-labelledby="d-actions-title"><h3 class="w-h3" id="d-actions-title">Your next three actions</h3><ol class="w-ul" id="d-plan-actions">' +
+          actions.map(function(action){return '<li>' + esc(action) + '</li>';}).join('') + '</ol></section>' + worksheet(focus) +
+          '<details class="d-plan-week"><summary>Your first-week checklist</summary>' + weekHtml + '</details>' + mentoring;
         html += '<p class="mhp-note">A starting point to investigate, not advice, and not confirmation that you are legally ready to do regulated work. Example figures for South Wales in 2026. Property Predator is Martin\'s own platform; KPUK, Ordris and Hello New Home are partners.</p>' +
           '<button type="button" class="w-btn2 noprint" style="align-self:flex-start" id="d-again">Change my answers</button>';
         var r = document.getElementById('d-result'); r.innerHTML = html; r.hidden = false; df.hidden = true; r.focus(); r.scrollIntoView({behavior:'smooth'});
+        document.getElementById('d-plan-save').addEventListener('click',savePlan);
+        document.getElementById('d-plan-print').addEventListener('click',function(){updatePrintValues();window.print();});
+        r.addEventListener('input',updatePrintValues);
+        updatePrintValues();
         document.getElementById('d-again').addEventListener('click', function(){ r.hidden = true; df.hidden = false; df.scrollIntoView(); });
         beacon('diagnostic_completed');
       });
