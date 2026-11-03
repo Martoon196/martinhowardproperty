@@ -27,13 +27,13 @@ window.MHP = {
   storyEmail: "martin@propinvestuk.co.uk",
   // Mentoring applications. Once the app release with /api/mhp/apply is live:
   // "https://app.martinhowardproperty.co.uk/api/mhp/apply". Blank = the form opens an email with the answers.
-  applyAction: "",
+  applyAction: "https://app.martinhowardproperty.co.uk/api/mhp/apply",
   // Cookieless page-event counter. Once live: "https://app.martinhowardproperty.co.uk/api/mhp/event". Blank = off.
-  eventEndpoint: "",
+  eventEndpoint: "https://app.martinhowardproperty.co.uk/api/mhp/event",
   // Calendar booking link for the Income Path Call. Blank = "I'll email you within one working day".
   bookingUrl: "",
   // Set to true once the app accepts webinar sign-ups without marketing consent (same release as applyAction).
-  webinarConsentOptional: false,
+  webinarConsentOptional: true,
   // Show the optional mobile number on the webinar form. Set to true once the app release that stores PHONE is live.
-  collectPhone: false
+  collectPhone: true
 };
