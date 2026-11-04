@@ -18,6 +18,9 @@ window.MHP = {
   replayPasscode: "",
   // Webinar price window: the date in words the £997 price ends, e.g. "Wednesday 11 November". Blank hides the line.
   windowEnds: "Wednesday 11 November at 7:30pm GMT",
+  // Exact moment the webinar price ends (UTC). The course buttons switch to the standard price at this moment.
+  // The members app enforces the same moment on its side, so changing this never changes what is charged.
+  windowEndsAt: "2026-11-11T19:30:00Z",
   // Founders' Room places taken (update by hand until the app counts it).
   foundersTaken: 0,
   // Cohort 1 start date in words, once published.
