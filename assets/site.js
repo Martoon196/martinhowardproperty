@@ -107,9 +107,11 @@
         story: "Thank you. Martin reads every story himself. You'll see the final wording before anything is used, and nothing goes out without your say-so.",
         waitlist: "You're on the list. You'll hear first when the next course intake opens."
       };
+      try { if (sessionStorage.getItem('mhp_last_form') === 'land') { kind = 'land'; sessionStorage.removeItem('mhp_last_form'); } } catch (e) {}
+      msgs.land = "You're registered for The Land Nobody Seems to Own, Wednesday 11 November at 7:30pm GMT. The joining link and reminders come by email before the day. Add it to your calendar now.";
       if (msgs[kind]) thanks.textContent = msgs[kind];
       document.querySelectorAll('[data-for]').forEach(function(el){ if (el.getAttribute('data-for') === kind) el.hidden = false; });
-      document.querySelectorAll('[data-hide-for]').forEach(function(el){ if (el.getAttribute('data-hide-for') === kind) el.hidden = true; });
+      document.querySelectorAll('[data-hide-for]').forEach(function(el){ if (el.getAttribute('data-hide-for').split(' ').indexOf(kind) >= 0) el.hidden = true; });
     }
     document.querySelectorAll('form[data-mhp-form]').forEach(function(form){
       var action = cfg.formAction || cfg.brevoFormAction;
