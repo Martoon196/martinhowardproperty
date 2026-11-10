@@ -77,26 +77,13 @@ img{max-width:100%;height:auto}
 </div>
 <div id="register" style="flex:1 1 340px;min-width:0;background:#FFFFFF;border:2px solid #111511;border-radius:12px;padding:28px;display:flex;flex-direction:column;gap:16px">
 <h2 style="margin:0;font-family:'Archivo',sans-serif;font-weight:800;font-size:26px;line-height:1.15">Save my free place</h2>
-<p style="margin:0;font-size:15px;line-height:1.5;color:#4A524C">The joining link and reminders come by email. There's no attendee list. Can't make it live? Register anyway and you'll get the replay.</p>
-<form data-mhp-form data-land-form style="display:flex;flex-direction:column;gap:14px;margin:0">
-<input type="hidden" name="CHEATSHEET" value="Land masterclass 11 November">
-<input type="hidden" name="CHEATSHEET_MODULE" value="Module 25">
-<input type="hidden" name="CHEATSHEET_LINK" value="https://martinhowardproperty.co.uk/land/">
-<input type="hidden" name="email_address_check" value="" style="display:none" aria-hidden="true" tabindex="-1" autocomplete="off">
-<input type="hidden" name="locale" value="en">
-<div class="w-field"><label for="l-fname">First name</label><input id="l-fname" name="FIRSTNAME" type="text" autocomplete="given-name" required></div>
-<div class="w-field"><label for="l-email">Email</label><input id="l-email" name="EMAIL" type="email" autocomplete="email" required></div>
-<div class="w-field"><label for="l-phone">Mobile number <span style="font-weight:400;color:#4A524C">(optional)</span></label><input id="l-phone" name="PHONE" type="tel" autocomplete="tel" inputmode="tel" maxlength="30" pattern="[0-9 +()-]*"><p style="margin:0;font-size:13px;color:#4A524C">For a text or WhatsApp reminder before we start.</p></div>
-<div class="w-check"><input id="l-consent" name="OPT_IN" type="checkbox" value="1" required><label for="l-consent">Email me the joining link, reminders and the replay for this masterclass, and occasional property tips from Martin. Unsubscribe any time.</label></div>
-<button type="submit" class="w-btn">Save my free place</button>
-<p role="status" aria-live="polite" style="margin:0;font-size:13px;line-height:1.5;color:#4A524C">No card details. See the <a href="/privacy/">privacy policy</a>.</p>
-</form>
+<p style="margin:0;font-size:15px;line-height:1.5;color:#4A524C">The joining link and a reminder come by email. Can't make it live? Register anyway and you'll get the replay for 7 days.</p>
+<a href="https://app.martinhowardproperty.co.uk/w/the-land-nobody-seems-to-own-04f856" class="w-btn">Register for free</a>
+<p style="margin:0;font-size:13px;line-height:1.5;color:#4A524C">Takes 30 seconds: your name and email. You'll watch in your browser on the night, nothing to install. No card details.</p>
 </div>
 </section>
 </main>
-<script>
-document.addEventListener('submit', function(e){ if (e.target.matches('[data-land-form]')) { try { sessionStorage.setItem('mhp_last_form', 'land'); } catch (err) {} } }, true);
-</script>
+
 <footer style="background: #111511; color: #B9C2BC;"><div class="w-wrap" style="padding-top: 32px; padding-bottom: 32px; font-size: 13px; line-height: 1.6;"><p style="margin: 0 0 8px;">Education, not legal, tax or financial advice. No income or results are promised. Property Predator is Martin's own platform; Key Properties UK, Ordris and Hello New Home are partners, and Martin may earn when you use them. None is required.</p><p style="margin: 0;">Martin Howard Property is a trading name of MH196 Ltd, registered in England and Wales, company number 15060897. Registered office: 5 Clothier Meadow, Castle Cary, Somerset BA7 7HA. <a href="/privacy/" style="color: #F3F4F1;">Privacy</a> · <a href="/terms/" style="color: #F3F4F1;">Terms and refunds</a> · © 2026</p></div></footer>
 </div>
 <script src="/assets/webinar.js" defer></script>
