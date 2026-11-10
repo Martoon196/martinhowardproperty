@@ -77,6 +77,16 @@
         live.querySelector('[data-join]').style.display = 'none';
       }
     }
+    // Keep displayed course prices aligned with the server-enforced webinar cutoff.
+    var windowEndsAt = Date.parse(cfg.windowEndsAt || '');
+    var showPrices = function(){
+      var open = !isNaN(windowEndsAt) && Date.now() < windowEndsAt;
+      document.querySelectorAll('[data-price-window]').forEach(function(el){ el.hidden = !open; });
+      document.querySelectorAll('[data-price-standard]').forEach(function(el){ el.hidden = open; });
+      document.querySelectorAll('[data-window]').forEach(function(el){ el.hidden = !open; });
+    };
+    showPrices();
+    if (!isNaN(windowEndsAt) && Date.now() < windowEndsAt && windowEndsAt - Date.now() < 2147483000) setTimeout(showPrices, windowEndsAt - Date.now() + 500);
     document.querySelectorAll('[data-window-ends]').forEach(function(el){ el.textContent = cfg.windowEnds ? ('The current window ends on ' + cfg.windowEnds + '.') : ''; });
     document.querySelectorAll('[data-founders-count]').forEach(function(el){ el.textContent = String(cfg.foundersTaken || 0); });
     document.querySelectorAll('[data-cohort-date]').forEach(function(el){ if (cfg.cohortDate) el.textContent = cfg.cohortDate; });
