@@ -31,6 +31,9 @@ window.MHP = {
   // Module kits checkout (members app). Once POST /api/mhp/checkout/kit is live (form field "kit" = slug from /assets/kits.json):
   // "https://app.martinhowardproperty.co.uk/api/mhp/checkout/kit". Blank = kit buy buttons are disabled with an "opening shortly" note.
   kitCheckoutAction: "",
+  // Thank-you page offer (two more kits for the price of one). Once POST /api/mhp/checkout/kit-pair is live:
+  // "https://app.martinhowardproperty.co.uk/api/mhp/checkout/kit-pair". Blank = the offer shows "opens later today".
+  kitPairCheckoutAction: "",
   // Land Gap Kit launch price (£27) ends at this moment (UTC), then £47. The members app enforces the same moment.
   landIntroEndsAt: "2026-11-15T23:59:00Z",
   // Mentoring applications. Once the app release with /api/mhp/apply is live:
