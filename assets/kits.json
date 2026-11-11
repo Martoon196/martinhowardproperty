@@ -1,0 +1,227 @@
+[
+ {
+  "kit": "property-from-the-beginning",
+  "module": 0,
+  "moduleSlug": "property-from-the-beginning",
+  "name": "Property, from the beginning Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "one-lane-pick-your-door",
+  "module": 1,
+  "moduleSlug": "one-lane-pick-your-door",
+  "name": "One Lane: Pick Your Door Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "bridging-finance-done-properly",
+  "module": 2,
+  "moduleSlug": "bridging-finance-done-properly",
+  "name": "Bridging Finance, Done Properly Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "assisted-sales-and-creative-structures",
+  "module": 3,
+  "moduleSlug": "assisted-sales-and-creative-structures",
+  "name": "Assisted Sales and Creative Structures Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "brrr",
+  "module": 5,
+  "moduleSlug": "brrr",
+  "name": "BRRR Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "title-splitting",
+  "module": 6,
+  "moduleSlug": "title-splitting",
+  "name": "Title Splitting Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "commercial-conversions",
+  "module": 7,
+  "moduleSlug": "commercial-conversions",
+  "name": "Commercial Conversions Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "running-it-as-a-business",
+  "module": 8,
+  "moduleSlug": "running-it-as-a-business",
+  "name": "Running It as a Business Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "doing-it-properly",
+  "module": 9,
+  "moduleSlug": "doing-it-properly",
+  "name": "Doing It Properly Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "land-and-planning-gain",
+  "module": 10,
+  "moduleSlug": "land-and-planning-gain",
+  "name": "Land and Planning Gain Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "deal-sourcing-and-packaging-done-compliantly",
+  "module": 11,
+  "moduleSlug": "deal-sourcing-and-packaging-done-compliantly",
+  "name": "Deal Sourcing and Packaging, Done Compliantly Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "hmos-wales-first",
+  "module": 12,
+  "moduleSlug": "hmos-wales-first",
+  "name": "HMOs, Wales First Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "serviced-accommodation-and-rent-to-rent-honestly",
+  "module": 13,
+  "moduleSlug": "serviced-accommodation-and-rent-to-rent-honestly",
+  "name": "Serviced Accommodation and Rent-to-Rent, Honestly Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "auctions-and-legal-packs",
+  "module": 14,
+  "moduleSlug": "auctions-and-legal-packs",
+  "name": "Auctions and Legal Packs Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "off-market-lead-generation",
+  "module": 15,
+  "moduleSlug": "off-market-lead-generation",
+  "name": "Off-Market Lead Generation Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "land-finding-and-site-assembly",
+  "module": 16,
+  "moduleSlug": "land-finding-and-site-assembly",
+  "name": "Land Finding and Site Assembly Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "wales-lettings-law-for-investors",
+  "module": 17,
+  "moduleSlug": "wales-lettings-law-for-investors",
+  "name": "Wales Lettings Law for Investors Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "building-regulations-and-sign-off-wales-and-england",
+  "module": 18,
+  "moduleSlug": "building-regulations-and-sign-off-wales-and-england",
+  "name": "Building Regulations and Sign-off, Wales and England Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "energy-sap-and-epcs",
+  "module": 19,
+  "moduleSlug": "energy-sap-and-epcs",
+  "name": "Energy, SAP and EPCs Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "testing-to-pass-air-tightness-ventilation-sound",
+  "module": 20,
+  "moduleSlug": "testing-to-pass-air-tightness-ventilation-sound",
+  "name": "Testing to Pass: Air Tightness, Ventilation, Sound and Overheating Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "ground-and-environment-what-the-searches-tell-you",
+  "module": 21,
+  "moduleSlug": "ground-and-environment-what-the-searches-tell-you",
+  "name": "Ground and Environment: what the searches tell you Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "money-the-game-the-mechanics-and-your-head",
+  "module": 22,
+  "moduleSlug": "money-the-game-the-mechanics-and-your-head",
+  "name": "Money: the game, the mechanics and your head Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "insurance-cover-that-pays-for-every-door",
+  "module": 23,
+  "moduleSlug": "insurance-cover-that-pays-for-every-door",
+  "name": "Insurance: cover that pays, for every door Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "tenure-leaseholds-freeholds-and-the-odd-ones",
+  "module": 24,
+  "moduleSlug": "tenure-leaseholds-freeholds-and-the-odd-ones",
+  "name": "Tenure: leaseholds, freeholds and the odd ones Kit",
+  "pricePence": 4700,
+  "introPricePence": null,
+  "introEndsAt": null
+ },
+ {
+  "kit": "land-gap",
+  "module": 25,
+  "moduleSlug": "unregistered-and-ownerless-land",
+  "name": "Land Gap Kit",
+  "pricePence": 4700,
+  "introPricePence": 2700,
+  "introEndsAt": "2026-11-15T23:59:00Z"
+ }
+]
