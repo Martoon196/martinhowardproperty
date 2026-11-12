@@ -6,7 +6,8 @@
   "name": "First Purchase Kit",
   "pricePence": 4700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "one-lane-pick-your-door",
@@ -15,7 +16,8 @@
   "name": "Pick Your Door Kit",
   "pricePence": 4700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "bridging-finance-done-properly",
@@ -24,7 +26,8 @@
   "name": "Bridging Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "assisted-sales-and-creative-structures",
@@ -33,7 +36,8 @@
   "name": "Creative Structures Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "brrr",
@@ -42,7 +46,8 @@
   "name": "BRRR Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "title-splitting",
@@ -51,7 +56,8 @@
   "name": "Title Splitting Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "commercial-conversions",
@@ -60,7 +66,8 @@
   "name": "Commercial Conversion Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "running-it-as-a-business",
@@ -69,7 +76,8 @@
   "name": "Property Business Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "doing-it-properly",
@@ -78,7 +86,8 @@
   "name": "Compliance Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "land-and-planning-gain",
@@ -87,7 +96,8 @@
   "name": "Planning Gain Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "deal-sourcing-and-packaging-done-compliantly",
@@ -96,7 +106,8 @@
   "name": "Deal Sourcing Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "hmos-wales-first",
@@ -105,7 +116,8 @@
   "name": "HMO Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "serviced-accommodation-and-rent-to-rent-honestly",
@@ -114,7 +126,8 @@
   "name": "Serviced Accommodation Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "auctions-and-legal-packs",
@@ -123,7 +136,8 @@
   "name": "Auction Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "off-market-lead-generation",
@@ -132,7 +146,8 @@
   "name": "Off-Market Leads Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "land-finding-and-site-assembly",
@@ -141,7 +156,8 @@
   "name": "Site Assembly Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "wales-lettings-law-for-investors",
@@ -150,7 +166,8 @@
   "name": "Welsh Lettings Law Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "building-regulations-and-sign-off-wales-and-england",
@@ -159,7 +176,8 @@
   "name": "Building Regs Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "energy-sap-and-epcs",
@@ -168,7 +186,8 @@
   "name": "EPC Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "testing-to-pass-air-tightness-ventilation-sound",
@@ -177,7 +196,8 @@
   "name": "Testing to Pass Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "ground-and-environment-what-the-searches-tell-you",
@@ -186,7 +206,8 @@
   "name": "Searches Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "money-the-game-the-mechanics-and-your-head",
@@ -195,7 +216,8 @@
   "name": "Money Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "insurance-cover-that-pays-for-every-door",
@@ -204,7 +226,8 @@
   "name": "Insurance Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "tenure-leaseholds-freeholds-and-the-odd-ones",
@@ -213,7 +236,8 @@
   "name": "Leasehold Kit",
   "pricePence": 9700,
   "introPricePence": null,
-  "introEndsAt": null
+  "introEndsAt": null,
+  "available": true
  },
  {
   "kit": "land-gap",
@@ -222,6 +246,57 @@
   "name": "Land Gap Kit",
   "pricePence": 9700,
   "introPricePence": 2700,
-  "introEndsAt": "2026-11-15T23:59:00Z"
+  "introEndsAt": "2026-11-15T23:59:00Z",
+  "available": true
+ },
+ {
+  "kit": "every-kind-of-money",
+  "module": 26,
+  "moduleSlug": "every-kind-of-money",
+  "name": "Capital Stack Kit",
+  "pricePence": 9700,
+  "introPricePence": null,
+  "introEndsAt": null,
+  "available": false
+ },
+ {
+  "kit": "banks-brokers-and-lenders",
+  "module": 27,
+  "moduleSlug": "banks-brokers-and-lenders",
+  "name": "Lender Ready Kit",
+  "pricePence": 9700,
+  "introPricePence": null,
+  "introEndsAt": null,
+  "available": false
+ },
+ {
+  "kit": "investors-and-jv-partners",
+  "module": 28,
+  "moduleSlug": "investors-and-jv-partners",
+  "name": "Investor and JV Kit",
+  "pricePence": 9700,
+  "introPricePence": null,
+  "introEndsAt": null,
+  "available": false
+ },
+ {
+  "kit": "money-mindset-the-deep-work",
+  "module": 29,
+  "moduleSlug": "money-mindset-the-deep-work",
+  "name": "Money Mindset Kit",
+  "pricePence": 9700,
+  "introPricePence": null,
+  "introEndsAt": null,
+  "available": false
+ },
+ {
+  "kit": "sales-done-properly",
+  "module": 30,
+  "moduleSlug": "sales-done-properly",
+  "name": "Sales Kit",
+  "pricePence": 9700,
+  "introPricePence": null,
+  "introEndsAt": null,
+  "available": false
  }
 ]
