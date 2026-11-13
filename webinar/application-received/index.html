@@ -62,13 +62,37 @@ img{max-width:100%;height:auto}
 <span style="color: #B9C2BC;">One lane. Four doors.</span>
 </header>
 
-<main class="w-wrap" style="max-width: 760px; padding-top: 56px; padding-bottom: 72px; display: flex; flex-direction: column; gap: 20px; flex-grow: 1;">
+<style>
+.rc-steps{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:0}
+.rc-steps li{position:relative;padding:0 0 22px 46px;font-size:16px;line-height:1.5;color:#3B4A40}
+.rc-steps li:last-child{padding-bottom:0}
+.rc-steps li::before{content:attr(data-n);position:absolute;left:0;top:0;width:30px;height:30px;border-radius:50%;background:#142019;color:#E8A33D;font-weight:800;font-size:14px;display:flex;align-items:center;justify-content:center}
+.rc-steps li.done::before{content:"\2713";background:#1F6B3A;color:#FFFFFF}
+.rc-steps li:not(:last-child)::after{content:"";position:absolute;left:14px;top:32px;bottom:2px;width:2px;background:#D5DAD3}
+.rc-steps b{display:block;font-family:'Archivo',sans-serif;font-size:17px;color:#111511}
+.rc-card{background:#FFFFFF;border:1px solid #D5DAD3;border-radius:12px;padding:24px;display:flex;flex-direction:column;gap:12px}
+.rc-card h2{font-family:'Archivo',sans-serif;font-size:20px;margin:0}
+.rc-card ol{margin:0;padding-left:22px;display:flex;flex-direction:column;gap:8px;font-size:16px;line-height:1.5;color:#3B4A40}
+</style>
+<main class="w-wrap" style="max-width: 760px; padding-top: 56px; padding-bottom: 72px; display: flex; flex-direction: column; gap: 22px; flex-grow: 1;">
 <p class="w-eyebrow">APPLICATION RECEIVED</p>
-<h1 class="w-h1" style="font-size: clamp(34px, 5vw, 54px);">Thanks. Your application has arrived.</h1>
-<p class="w-p" style="font-size: 18px;">The next step is a free 20-minute Income Path Call. We'll look at your starting position, talk about the door you're interested in, and decide together whether the programme is right for you. If it isn't, I'll say so.</p>
-<div data-booking style="display:flex;flex-direction:column;gap:12px"><p class="w-p" style="font-size:18px"><strong>I'll email you within one working day with a time for your call.</strong> A confirmation email is on its way now; if it isn't there in a few minutes, check spam or promotions.</p></div>
-<p class="w-p">While you wait: <a href="/webinar/diagnostic/">take the First Door check</a> if you haven't yet, and bring your result to the call.</p>
-<p class="mhp-note">The call is about fit. It isn't individual financial, mortgage, tax or legal advice.</p>
+<h1 class="w-h1" style="font-size: clamp(34px, 5vw, 54px);">Got it. I'll read this myself.</h1>
+<p class="w-p" style="font-size: 18px;">Thank you for taking the time. Most people never get as far as writing down what they want, so you're already ahead. Here's exactly what happens now.</p>
+<div class="rc-card">
+<ol class="rc-steps">
+<li class="done" data-n="1"><b>You applied</b>Your answers have arrived safely.</li>
+<li data-n="2"><b>I read it</b>Not a bot and not a sales team. Me.</li>
+<li data-n="3"><b>We book your call</b><div data-booking style="display:flex;flex-direction:column;gap:12px;margin-top:6px"><p class="w-p" style="margin:0"><strong>I'll email you within one working day with a time for your call.</strong> A confirmation email is on its way now; if it isn't there in a few minutes, check spam or promotions.</p></div></li>
+<li data-n="4"><b>20 minutes, then we decide</b>We look at your starting position and the door you're interested in, and decide together whether the programme is right for you. If it isn't, I'll say so.</li>
+</ol>
+</div>
+<div class="rc-card"><h2>Three things to think about before we speak</h2>
+<ol><li>What would have to be true in 90 days for you to say this was worth it?</li><li>How many hours a week can you honestly protect for it?</li><li>What has stopped you before? Be blunt. It saves us both time.</li></ol>
+<p class="w-p" style="margin:0">You don't need to send these anywhere. Bring them to the call.</p></div>
+<div class="rc-card"><h2>While you wait</h2>
+<p class="w-p" style="margin:0">Take the First Door check if you haven't yet. It takes five minutes and gives us a head start on the call.</p>
+<a class="w-btn2" style="align-self:flex-start" href="/webinar/diagnostic/">Take the First Door check</a></div>
+<p class="mhp-note">The call is about fit. It isn't individual financial, mortgage, tax or legal advice. No income or results are promised.</p>
 </main>
 <footer style="background: #111511; color: #B9C2BC;"><div class="w-wrap" style="padding-top: 32px; padding-bottom: 32px; font-size: 13px; line-height: 1.6;"><p style="margin: 0 0 8px;">Education, not legal, tax or financial advice. No income or results are promised. Property Predator is Martin's own platform; Key Properties UK, Ordris and Hello New Home are partners, and Martin may earn when you use them. None is required.</p><p style="margin: 0;">Martin Howard Property is a trading name of MH196 Ltd, registered in England and Wales, company number 15060897. Registered office: 5 Clothier Meadow, Castle Cary, Somerset BA7 7HA. <a href="/privacy/" style="color: #F3F4F1;">Privacy</a> · <a href="/terms/" style="color: #F3F4F1;">Terms and refunds</a> · © 2026</p></div></footer>
 </div>
