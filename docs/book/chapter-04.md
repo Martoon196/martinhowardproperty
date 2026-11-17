@@ -19,11 +19,25 @@ And sometimes the property does not need a major refurbishment at all.
 
 ### The value was already there
 
-We bought a refurbished property on Clare Street in Swansea for an investor. It was already nicely done, but the seller was running out of time on bridging finance and needed a quick sale.
+On a deal we did with Motherlode, we bought a refurbished property on Clare Street in Swansea for an investor. The cash purchase price was £95,000. It was already nicely done, but the seller was running out of time on bridging finance and needed a quick sale.
 
 The opportunity was in the purchase price and the way the property was brought back to market.
 
-I went up with my lawnmower and cut the overgrown lawn. We took new photographs and put it with a higher-end agent. It sold a few weeks later at a higher price, without us carrying out a major refurbishment.
+I went up with my lawnmower and cut the overgrown lawn. We took new photographs and put it with a higher-end agent.
+
+The sale completed about three months later for £120,000. We had not carried out a major refurbishment.
+
+That was a £25,000 difference between the purchase and sale prices. After legal and other deal costs, the investor made roughly £20,000 before tax.
+
+| Clare Street | Amount |
+|---|---:|
+| Cash purchase | £95,000 |
+| Completed sale | £120,000 |
+| Difference before costs | £25,000 |
+| Approximate profit after deal costs, before tax | £20,000 |
+| Time to complete the resale | About three months |
+
+A lawnmower did not create £25,000 of value. Buying at the right price, tidying the presentation and reaching the market properly made the difference.
 
 We had found a seller who valued a quick, reliable completion. Sometimes the value is already there, and the seller's timetable creates an opportunity to buy below it.
 
@@ -202,7 +216,23 @@ We were not taking a guess that historic movement must be harmless. We had evide
 
 That result belongs to those properties and those lending decisions. It is not a promise that every hillside house or knotweed plan gets the same answer.
 
-We carried out some refurbishment as well. The opportunity came from resolving the questions behind the labels and understanding what remained to be spent.
+We carried out some refurbishment as well. Once we had finished, the houses were valued at £130,000 each: £260,000 combined, against the £130,000 purchase price for the pair.
+
+Around two to three years later, one was valued at £180,000 and the other at £170,000. Together, that was £350,000.
+
+| Swansea Road, Trebanos | Combined amount |
+|---|---:|
+| Purchase price for both houses | £130,000 |
+| Valuations after finishing: £130,000 each | £260,000 |
+| Later valuations: £180,000 and £170,000 | £350,000 |
+
+Those are valuations, not completed sale proceeds. The £130,000 was the purchase price; refurbishment, purchase costs and other expenses sit on top. The difference in value is not the same as profit in the bank.
+
+Even with that distinction, it shows why the work mattered. We bought two houses for the price at which one was valued after we had finished. We had understood and worked through the issues that made the purchase look difficult.
+
+The later increase was a further benefit. It was not something we could count as earned profit on the day we bought.
+
+The opportunity came from resolving the questions behind the labels and understanding what remained to be spent.
 
 **Four issues did not make it four automatic reasons to walk away. They made it four pieces of work to complete.**
 
