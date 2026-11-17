@@ -55,6 +55,30 @@ Then ask who checks each part and what evidence shows it is complete.
 
 If you cannot describe the finish line, you will struggle to agree whether you have reached it.
 
+### On a small refurb, you may be leading the trades yourself
+
+For a small house refurbishment, employing a main building contractor may cost more than the deal can comfortably support.
+
+A practical alternative is to appoint the individual trades: a plasterer, electrician, plumber, decorator and whoever else the scope needs.
+
+Local one- or two-person firms can be a good fit. You are paying for the work you need and taking responsibility for coordinating it yourself.
+
+That makes you the leader of the build team.
+
+You decide the sequence, arrange access, order what you have agreed to supply and make sure one person's work does not prevent the next person doing theirs.
+
+The plasterer needs the preceding work ready. The decorator needs suitable surfaces. The electrician and plumber need the right access at the right stage.
+
+Each trade is responsible for its agreed work and the testing or certification applicable to that work. Establish the relevant qualifications, registrations and sign-off arrangements before appointing them. A promised certificate is not a substitute for checking the person or the work, and not every plumbing job has the same certification requirements.
+
+Then manage the practical standard. Do they turn up? Is the finish acceptable? Do they clear waste and leave the site safe and workable for the next trade?
+
+A plasterer who leaves poor work may need to put it right or be replaced. A qualified trade can still leave a mess, miss an appointment or hold up another part of the job.
+
+Agree who makes good around each installation, who clears what and what “finished” includes. Otherwise, the small gaps between people's scopes become jobs you still need to pay for.
+
+**You can save a contractor's management margin by managing the trades yourself. You still have to do the management.**
+
 ### Give builders the same job to price
 
 Three quotes are only useful if they cover broadly the same work.
@@ -131,13 +155,31 @@ Some materials and specialist orders may need deposits. Understand what you are 
 
 Avoid letting payments get far ahead of the value properly delivered without understanding and accepting the exposure.
 
-On a larger job, an appropriate contract administrator, surveyor or project manager may assess progress and payments. On a smaller job, you still need a reliable way to check.
+Larger projects commonly have a project manager or project-managing surveyor, with scheduled payments through the build and progress assessed against the agreed work. The lender may also appoint a monitoring surveyor. Be clear about each person's role: monitoring the lender's security is not automatically the same as managing your contractor.
+
+On a smaller job, you still need a reliable way to check each trade's progress and invoice.
 
 A few photographs can be useful. They may not show concealed work or answer whether something has been installed correctly.
 
 If you do not have the knowledge to assess a stage, arrange the help before the invoice arrives.
 
 **Checking a payment is part of managing the job. It is not an insult to the builder.**
+
+### Match contractor payments to lender drawdowns
+
+Where bridging or development finance includes a works facility, the lender may release the build funds in stages, often called tranches.
+
+Those releases are commonly linked to evidence of eligible work completed and expenditure incurred. Depending on the lender and facility, that may involve a monitoring surveyor's inspection. Some smaller facilities may accept photographs, invoices and progress updates.
+
+Read the actual drawdown conditions. Not every bridging loan includes build funding, and evidence requirements differ.
+
+If you must pay for a stage before the lender releases the corresponding money, you need enough working capital to bridge that gap. Allow for inspection, processing and any deductions as well.
+
+Your trade's payment date and the lender's release date are two different dates until you have planned them together.
+
+Put both into the cash-flow forecast. A facility can have enough money available overall while you still run short between stages.
+
+**An agreed loan amount is not the same as cash available today.**
 
 ### Hidden work needs attention before it disappears
 
