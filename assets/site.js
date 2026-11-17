@@ -115,9 +115,10 @@
       var msgs = {
         webinar: "You're registered for Wednesday 4 November at 7:30pm GMT. Your confirmation email is on its way, with a reminder the day before and an hour before. If it isn't there in a few minutes, look in spam or promotions and drag it into your inbox so the watch link lands.",
         story: "Thank you. Martin reads every story himself. You'll see the final wording before anything is used, and nothing goes out without your say-so.",
-        waitlist: "You're on the list. You'll hear first when the next course intake opens."
+        waitlist: "You're on the list. We'll email you about the updates you requested. No payment has been taken."
       };
-      try { if (sessionStorage.getItem('mhp_last_form') === 'land') { kind = 'land'; sessionStorage.removeItem('mhp_last_form'); } } catch (e) {}
+      try { var lastForm = sessionStorage.getItem('mhp_last_form'); if (lastForm === 'land' || lastForm === 'book') { kind = lastForm; sessionStorage.removeItem('mhp_last_form'); } } catch (e) {}
+      msgs.book = "You're on the Before You Buy launch list. We'll email you with book news and launch details. This is an expression of interest, not an order; no payment has been taken.";
       msgs.land = "You're registered for The Land Nobody Seems to Own, Wednesday 11 November at 7:30pm GMT. The joining link and reminders come by email before the day. Add it to your calendar now.";
       if (msgs[kind]) thanks.textContent = msgs[kind];
       document.querySelectorAll('[data-for]').forEach(function(el){ if (el.getAttribute('data-for') === kind) el.hidden = false; });
