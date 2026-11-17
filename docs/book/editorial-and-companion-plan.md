@@ -88,3 +88,12 @@ Video records need stable example number, chapter, title, asset URL, captions/tr
 - RICS Japanese knotweed professional standard: https://www.rics.org/profession-standards/rics-standards-and-guidance/sector-standards/valuation-standards/japanese-knotweed-and-residential-property
 - RICS flooding consumer guide: https://www.rics.org/consumer-guides/flooding
 - LexisNexis flying and creeping freeholds: https://www.lexisnexis.co.uk/legal/guidance/flying-freeholds
+
+
+## Preview revision — 17 November 2026
+
+Chapter One expanded to about 2,270 words for a richer free preview. PDF includes a three-page annotated contents preview before the chapter. This does not set the length for every chapter: preserve the overall concise 100-page ambition and rebalance at full-book layout.
+
+Each chapter should close with its completed reader outcome, a concrete unresolved question, and a specific promise fulfilled by the next chapter. Avoid manufactured suspense or withholding checks a reader needs immediately.
+
+Companion promotion: lead with usable outcomes, explain current worksheets and saving behaviour, distinguish future videos and knotweed pack from live resources. No implied access to a paid vault, training subscription or Property Predator trial without the corresponding offer being implemented.
