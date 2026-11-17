@@ -238,6 +238,64 @@ Bring the buying brief, search pack, comparison evidence, viewing checks and app
 
 That is the outcome this book was designed to give you.
 
+### The LNW: the cost of a plan that did not move forward
+
+At 71 Sterry Road in Swansea, we bought a former pub known as the London and North Western—the LNW.
+
+We bought from a developer. There had been an approval for flats that had lapsed, and we wanted to pursue an HMO scheme.
+
+We went through pre-application discussions. Our understanding of the feedback was that particular elements would be acceptable, and we developed the application on that basis.
+
+The application was then refused, including on matters we believed the earlier discussions had indicated would be acceptable.
+
+That was deeply frustrating. We had spent time and money trying to establish a route, then found ourselves having to work through further objections and requirements.
+
+In our experience, communication and the planning timetable were difficult. There were repeated requests for extensions to the determination period. The building remained empty for around three years, costing us money while the process dragged on.
+
+Then it suffered a serious fire. We were left dealing with a major insurance situation as well as the development problems.
+
+Those are separate events, but together they show how far a project can move from the original plan.
+
+The lesson is not that you can predict a fire. It is that the period before development starts is still part of the investment. An empty building has holding costs, security needs and insurance arrangements that must remain suitable as circumstances change.
+
+For the next purchase, ask what happens if the planning stage takes much longer than expected. How long can you fund ownership? What are the alternatives if the intended scheme is refused? What costs and responsibilities continue while the building waits?
+
+Also recognise what pre-application advice gives you. It can help identify a route and expose objections; it is not the final permission. Keep the written advice and have your planning team identify the assumptions and unresolved issues behind it.
+
+Local experience matters too. Speak to people who have taken comparable applications through that authority. Ask about actual timescales, recurring objections and communication. Use that experience to inform the programme, rather than assuming the stated target will be your completion date.
+
+**A property can cost you money for a long time before a builder starts work.**
+
+### Gowerton: the purchase we did not make
+
+Another building in Gowerton looked as though it could become around six flats.
+
+It was a former shop with office space at the back. It was empty and needed a new use.
+
+That sounds like the sort of opportunity worth investigating.
+
+But the site was near a river with a history of flooding. Through the pre-application process, we established that the flood-risk position and the requirements involving Natural Resources Wales presented a major obstacle to our residential proposal.
+
+We explored ways of dealing with it, including arrangements for refuge upstairs. We did not establish an acceptable solution for the scheme we wanted to deliver.
+
+So we did not buy it.
+
+That is an important result. We had found the question that could stop the deal before taking on the purchase and its holding costs.
+
+It would have been easy to say: “It is an empty building. Surely somebody will let us turn it into something useful.”
+
+But the fact that a building would benefit from investment does not establish that your proposed use can be approved.
+
+Nor does being able to imagine an emergency arrangement establish that it will satisfy the relevant flood-safety requirements.
+
+We were investigating a particular proposal on a particular site. We did not find a workable route for it. That was enough to make our decision, without needing to prove that nobody could ever find another use.
+
+The contrast with the LNW matters.
+
+On one project, we owned the building while the planning difficulties and costs continued. On the other, the research told us to stop before buying.
+
+**Sometimes the return on your research is the property you do not buy.**
+
 ### Before you buy
 
 You do not have to buy a perfect property.
