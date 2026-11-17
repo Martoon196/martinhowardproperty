@@ -48,8 +48,20 @@ window.MHP = {
   // Show the optional mobile number on the webinar form. Set to true once the app release that stores PHONE is live.
   collectPhone: true,
   // Property Predator discount code for Before You Buy readers, shown on /book/thanks/.
-  // Letters, digits, - or _ only, up to 40 characters. Blank = the offer is hidden.
+  // Capital letters, digits and - only, 3 to 64 characters, starting with a letter or digit (lower case is upper-cased).
+  // Blank = the offer is hidden. Set it only once the code is confirmed live on Property Predator, e.g. "READ75".
   bookOfferCode: "",
-  // One short line describing the deal in your own words, e.g. "20% off your first three months". Blank = no deal line is shown.
-  bookOfferDetail: ""
+  // The Property Predator plan the code is for (sent in the link). One of pro_buyer, pro_investor, pro_business
+  // or the same with _annual. Anything else = the offer is hidden.
+  bookOfferPlan: "pro_buyer",
+  // The offer card fills every price, percentage and plan name from the four lines below (each up to 20 characters).
+  // If any is blank the offer is hidden, so readers never see a half-filled pitch.
+  // Plan name as Property Predator shows it.
+  bookOfferPlanName: "Hunter",
+  // Normal monthly price, as text.
+  bookOfferWas: "£39",
+  // First-month price with the code, as text. Under £10 adds "less than a tenner" to the pitch.
+  bookOfferNow: "£9.75",
+  // Discount on the first month, as text.
+  bookOfferPercent: "75%"
 };
