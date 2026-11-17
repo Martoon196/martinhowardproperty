@@ -124,6 +124,6 @@ If two answers clash, fix that before you start offering. A major refurbishment 
 
 **Book companion — Example 01: Choose your lane.**
 
-Use the buying-brief worksheet alongside this chapter. The companion walkthrough will show how to turn your answers into practical search criteria. The planned home for the numbered examples is **martinhowardproperty.co.uk/book**.
+Use the buying-brief worksheet alongside this chapter. Use the printable worksheet at **martinhowardproperty.co.uk/book/companion/** to turn your answers into practical search criteria.
 
 A clear brief saves you chasing properties that cannot serve your goal. It also makes the next step much easier: choosing where to look.

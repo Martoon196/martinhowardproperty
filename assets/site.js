@@ -111,6 +111,7 @@
     // ---- thanks page: tailor the message to the form that sent people here
     var thanks = document.querySelector('[data-thanks-msg]');
     if (thanks) {
+      try { if (sessionStorage.getItem('mhp_last_form') === 'book') { sessionStorage.removeItem('mhp_last_form'); window.location.replace('/book/thanks/'); return; } } catch (e) {}
       var kind = new URLSearchParams(location.search).get('for');
       var msgs = {
         webinar: "You're registered for Wednesday 4 November at 7:30pm GMT. Your confirmation email is on its way, with a reminder the day before and an hour before. If it isn't there in a few minutes, look in spam or promotions and drag it into your inbox so the watch link lands.",
