@@ -1,92 +1,63 @@
 # Chapter 3
-## Who Will Want This Property?
+## Will It Let — and at What Price?
 
-You are standing in a house, looking around, thinking: “I could live here.”
+You do not need to invent a fictional tenant before buying an ordinary three-bedroom house.
 
-Fair enough. But are you the person who will be paying the rent?
+You do not need to know their name, their favourite coffee or what they do on a Sunday.
 
-If you are buying to sell, are you the person who will be buying it when the work is done?
+If you are looking at an established residential area, houses are occupied, similar homes let without sitting empty for months, and yours is a normal house in a suitable condition, you already have a useful indication of demand.
 
-Your own taste can help you spot things. It can also send you in completely the wrong direction.
+Your job is to establish a realistic rent and check whether the deal works at that figure.
 
-Before you buy, you need a clear picture of the person who will want the finished property, why they will choose it and what they are likely to pay.
+That is a much more useful starting point than spending weeks trying to imagine your perfect customer.
 
-Otherwise, you could build something you love and spend months waiting for somebody else to agree.
+But there is a distinction that matters. A normal single let, a room in an HMO and a serviced apartment are different offers. The evidence that supports one may tell you very little about another.
 
-### A beautiful apartment does not fill its own calendar
+Get that distinction right and your research becomes much clearer.
 
-Our serviced apartment in Cardiff looked lovely. Meirion and I had put effort into making it somewhere people would enjoy staying.
+### Property myth: you must know exactly who will live there
 
-But good presentation did not give us steady bookings.
+Take a normal three-bedroom house in Swansea.
 
-We had started at a difficult time of year. Some weekends were still empty on Friday. Then a booking might arrive, help us break even and leave us watching the calendar again.
+I do not need to know who will eventually rent it to recognise that people need houses there. I look at the local market. Are comparable homes occupied? Are similar rentals being taken? Are there lots of empty houses or listings that have sat there for ages?
 
-We also had the cleaning, the guest questions and the unexpected problems. One guest held a party and upset the neighbours.
+If the area is functioning, the house is broadly in line with what people rent locally, and the price and standard are right, I have a reasonable starting point.
 
-The apartment was real. So were the costs. The demand we needed was much less dependable than we wanted it to be.
+The same thinking can apply in a town or village. You still need to check what is happening locally. You do not need to turn an ordinary house into a complicated marketing exercise.
 
-That experience taught us to look harder at the business behind the property. Who would book? For what reason? At which times of year? At what price? And how much would serving those guests cost?
+That does not mean every house will let at whatever price you choose. A very unusual layout, poor condition, awkward access or a price well above the alternatives can change the picture.
 
-Those questions belong before the purchase or commitment, while you can still change the plan.
+**You do not need to know the future tenant. You do need to know the market rent.**
 
-You can decorate a property. You cannot decorate demand into existence.
+And “somebody will rent it if it is cheap enough” is not the end of the appraisal. Will the rent they are likely to pay leave enough after your costs?
 
-### Describe the customer before the kitchen
+That is the question we are working towards.
 
-Start with one sentence:
+### Start with what the market is already doing
 
-**“This property is for _____, who want to live or stay here because _____.”**
+Look at the evidence around the property.
 
-Perhaps it is a single let for a household that wants a long-term home near work and schools. Perhaps it is an HMO room for someone who wants a manageable monthly cost and an easy journey to their job. Perhaps it is a refurbished house for a buyer who wants to move in without organising building work.
+Are there similar homes available? How long have they been advertised? Have the prices changed? What has recently let? What are local agents seeing when a sensibly priced property comes on?
 
-These are starting points. Now get specific about the property needs.
+A small number of available rentals, with suitable homes moving quickly, tells a different story from pages of similar properties being advertised month after month.
 
-How many people will use it? What space do they need? How will they travel? Will they need parking? Is there enough storage? What do they gain by choosing this location?
+You are looking for a pattern. One empty house does not explain a whole neighbourhood. An empty calendar or a stale listing also needs investigating before you decide what it means.
 
-You are trying to understand a use, a budget and a set of practical needs. That gives you something to test.
+Start with properties that are genuinely comparable. A three-bedroom house is not automatically comparable with every other three-bedroom house in the postcode.
 
-“Everyone will want it” gives you nothing to work with.
-
-### Let the customer change the brief
-
-Think about two illustrative properties.
-
-The first is a family house with a good-sized garden. The bedrooms look generous in the photographs, but the smallest room is difficult to furnish, storage is limited and getting children and shopping in from the car would be awkward.
-
-The second is a compact flat close to a major workplace and a useful bus route. It has no garden, but the space works well for someone who values a short commute and simple upkeep.
-
-Which is better?
-
-For whom?
-
-A feature only becomes valuable when the intended customer values it enough to choose the property or pay for it.
-
-The same applies to refurbishment. A kitchen that costs more does not automatically produce more rent. Taking out storage to make a room look bigger may make daily life harder. Adding another bedroom may damage the living space that made the house attractive in the first place.
-
-Before you price improvements, ask what problem each one solves for the person who will use the property.
-
-| Intended use | Questions worth testing |
-|---|---|
-| Family single let | Do the bedroom sizes, storage, outside space and daily journeys work together? |
-| Shared accommodation | Are the rooms and shared facilities useful, and can people get to work or study easily? |
-| Short stays | Who comes here, why, for how long and during which parts of the year? |
-| Refurbish and sell | Which buyers can afford the likely price, and what alternatives can they choose? |
-
-A property can suit more than one market. That can give you options. Each option still needs its own evidence and numbers.
+Remember Townhill and Cockett. A short distance can take you into a different local market.
 
 ### Asking is not achieving
 
-A listing tells you what someone is asking. It does not tell you what they achieved, how long they waited or what they had to change along the way.
+You see a similar rental advertised at £1,000 a month.
 
-You might see a similar rental advertised at £1,000 a month. That is useful information. It is not proof that yours will let for £1,000.
+Useful. But has anybody agreed to pay it?
 
-Was that property furnished? Were bills included? Had it just been refurbished? Did it have parking? Was it on the street people preferred? Did it sit empty before the price came down?
+Was the property furnished? Were bills included? Had it just been refurbished? Did it have parking? Was it on the street people preferred? Did it sit empty before the price came down?
 
-Remember the lesson from Swansea: a short distance can take you into a different local market.
+A listing tells you what someone is asking. It does not tell you the final agreement or the wait involved.
 
-For a sale, look for completed transactions as well as current competition. For a rental, seek evidence of recent lets and speak to agents about what was actually agreed. With short stays, look beyond the nightly rate to occupancy, seasonality, discounts and operating costs.
-
-Label each piece of evidence so you know what it is.
+For a sale, look for completed transactions as well as current competition. For a rental, seek evidence of recent lets and ask agents what was agreed. Label the information so that an asking price does not quietly become an achieved figure in your spreadsheet.
 
 | Evidence | What it helps you understand | What it does not prove |
 |---|---|---|
@@ -95,92 +66,130 @@ Label each piece of evidence so you know what it is.
 | Agent’s recent letting example | An indication of achieved rent and demand | That your property will perform the same way |
 | Time on market and price changes | How the offer may be landing with customers | Why it has struggled without further investigation |
 
-The better the match, the more useful the comparison. Record the source, date, condition and the differences that matter.
+Record the source, date and important differences. The better the match, the more useful the comparison.
 
-### Ask agents questions they can answer properly
+### Remember who the agent is trying to sign up
 
-“Would this rent?” is an easy question to answer with “yes”.
+An agent wants your instruction. Before they can earn from selling or letting the property, they need you to choose them.
 
-Try asking what would need to be true for it to rent at the figure you need.
+Keep that in mind when somebody gives you a particularly exciting figure.
 
-Speak to more than one agent who handles that sort of property locally. You want people who deal with those applicants and buyers, rather than someone giving a broad opinion about the town.
+An optimistic valuation can help win the instruction. Later, once the property is signed up and on the market, the conversation can become: “We are not getting the interest we expected. We should reduce the price.”
 
-Useful questions include:
+You need to separate the pitch for your business from the evidence for their estimate.
+
+That does not make every agent's figure wrong. It means you should ask how they reached it, especially when it is the figure you most want to hear.
+
+Speak to more than one agent who handles that sort of property locally. Useful questions include:
 
 - What have you recently let or sold that is genuinely similar?
 - What price was agreed, and how long did it take?
 - What condition was it in, and what was included?
-- What are applicants asking for that they struggle to find?
-- What makes them reject a property like this?
-- What would you change before marketing it?
-- What price would you use for a realistic appraisal, and why?
+- How many suitable enquiries are you seeing for properties like this?
+- What makes applicants reject them?
+- What would you change before marketing this one?
+- What figure would you use for a realistic appraisal, and which examples support it?
 
-If an agent gives you a figure, ask for the examples behind it. If two agents disagree, investigate the difference. One may be assuming a better finish, a different tenant market or a longer wait.
+If two agents disagree, investigate the difference. One may be assuming a better finish, a different location or a longer wait.
 
-You do not have to choose the most exciting answer.
+**Do not choose your appraisal figure because it makes the deal work. Choose it because the evidence supports it.**
 
-You need the answer you can build a sensible plan around.
+### HMOs need a closer look
 
-### Check the competition as if you were the customer
+A city can have plenty of people who need homes and still have rooms that are hard to fill.
 
-Open the listings your future tenant or buyer will see beside yours.
+People choosing a room compare different things from a household renting an entire house. The journey to work or study, shared facilities, bills, room size and the other available rooms can all matter.
+
+In Swansea, the hills are a practical example. A room may look close to the centre on a map. That does not show you what the walk feels like at the end of a long day.
+
+Some people would much rather live at the bottom than walk or cycle up a steep hill. That can affect which rooms they choose.
+
+We also worked on a seven-bedroom HMO outside the centre. Getting the building finished did not mean the rooms filled easily. They were much harder to let than we wanted.
+
+We ended up trying a referral arrangement to fill rooms. That brought its own difficulties, including rent problems and behaviour that affected the other occupiers. When one placement disrupts the house, you can find yourself losing people who were otherwise happy to stay.
+
+There were other lessons in that project about agreements and refinancing. For this chapter, the important one is simple: seven rooms on a plan are not seven dependable rent payments.
+
+Check demand for rooms in that particular location, at the standard and price you intend to offer. The fact that ordinary houses let locally does not answer that question.
+
+### Watch what new supply does to the existing market
+
+Demand can change even when your property has not.
+
+We have seen that in Swansea. As new student accommodation came into the market, we saw student HMOs move towards professional tenants. In our experience, that increased the competition for the sort of occupiers we were trying to attract.
+
+At the time of writing, we have four Swansea HMOs with twenty rooms between them. Eight are available.
+
+That is forty per cent of the rooms. It is our portfolio snapshot, rather than a vacancy rate for the whole city, but it shows you why I take this seriously.
+
+Those rooms exist. The buildings have not disappeared. Yet filling them has become much harder than it used to be.
+
+So look beyond the properties already competing with yours. What is being built? What is nearing completion? Could a new development pull people out of another type of accommodation, pushing those landlords into your market?
+
+Ask local agents whether enquiry levels, letting times or the competing stock have changed. Check what is actually being delivered and distinguish it from a proposal that may never be built.
+
+A new block can affect properties beyond its own front door.
+
+### Serviced accommodation needs bookings, not just housing demand
+
+Our serviced apartment in Cardiff looked lovely. Meirion and I had put effort into making it somewhere people would enjoy staying.
+
+But good presentation did not give us steady bookings. Some weekends were still empty on Friday. A late booking might help us break even, then leave us watching the calendar again.
+
+With serviced accommodation, the questions are more specific. Why do people visit? When do they come? How long do they stay? How much do they pay? What does it cost to serve them?
+
+The term you will often see is **occupancy rate**: the proportion of available nights that are booked. Check how the data source defines available nights, because blocked dates and missing information can affect the picture.
+
+A high nightly rate with lots of empty nights can disappoint. A busy property can also leave little once cleaning, booking fees, utilities and the rest of the operation are paid for.
+
+Look at seasonality and comparable units, rather than assuming one busy weekend describes the whole year.
+
+### Check the competition as if you were choosing
+
+Open the listings your future tenant, guest or buyer will see beside yours.
 
 If someone has the budget you are expecting, what else can they get?
 
-Perhaps another house has parking and yours does not. Perhaps another room has its own bathroom. Perhaps the competing flat is slightly smaller but much closer to work.
+Perhaps another house has parking and yours does not. Perhaps another room has its own bathroom. Perhaps a competing flat is slightly smaller but much closer to work.
 
-Now ask: why would they choose yours?
+Why would someone choose yours at your price?
 
-There needs to be a credible answer. Better space. Better condition. A more useful location. A sensible price. Something that matters to that customer.
+There should be a sensible answer: useful space, good condition, a convenient location or a price that reflects the differences.
 
-“I need that rent to make the numbers work” will not appear on their list of reasons.
+You do not need to invent a person's life story to do this. You need to compare the actual choices in front of them.
 
-Your borrowing costs are your problem. The customer compares the choices in front of them.
-
-### Be careful when the plan needs a new market
-
-Improving a tired property to meet an existing need is one thing. Assuming that your project will attract an entirely different customer to the street is a much bigger assumption.
-
-If your intended price is well above the local examples, find out what supports that difference.
-
-A higher specification may help. It may also leave you with the most expensive finish on a street where customers have a lower budget.
-
-There might be a strong case for the project. You need to find it before you spend the money.
-
-The more your plan depends on a change in behaviour, the stronger your evidence needs to be.
+“I need that rent to cover my mortgage” will not appear on their list of reasons.
 
 ### Use Property Predator to build the evidence
 
-Property Predator can analyse the listing, bring together comparable evidence and generate a report to help you assess the property and its value.
+Property Predator's rental reports bring together comparable information to help you assess the rent. Depending on the report and available evidence, that can include advertised rents and achieved-rent information.
 
-Use that to move the research forward. Look at which comparables support the estimate and which differences need investigating.
+Check which is which. Then look at the property differences behind the figures.
 
-Then add the things you learn from agents and your own visits. A report and a local conversation can tell you different parts of the same story.
+The serviced-accommodation tools also include occupancy and market data, using the relevant report and tools. Compare similar unit types, locations and time periods. Check the coverage and definitions before treating an average as a forecast for your property.
 
-Keep your evidence in the property record so that when you come back to the appraisal, you can explain where your proposed rent or sale price came from.
+Use the reports to do the analysis work, then add what you learn from agents and your own visits. Keep that evidence with the property record so you can explain the rent or sale price in your appraisal.
 
 You want to be able to say: “These are the comparisons. These are the differences. This is the figure I am using, and this is what I still need to check.”
 
-### Your demand test
+### Your comparison checklist
 
-Take the three properties you shortlisted in Chapter Two. For each one, answer:
+Use **Example 03: Test the demand** in the book companion at **martinhowardproperty.co.uk/book/companion/**. The printable comparison checklist helps you check:
 
-1. **Who is it for?** Describe the intended tenant, guest or buyer through their needs and budget.
-2. **Why here?** Record the practical reason they would choose this location.
-3. **Why this property?** Identify what it offers beside the available competition.
-4. **What supports the price?** Record comparable evidence and the differences.
-5. **What is uncertain?** Name the assumption that could change the result.
+- **The match:** location, property type, size, layout and condition.
+- **The package:** furniture, bills, parking, outside space and shared facilities.
+- **The evidence:** asking or achieved, source, date, time on market and price changes.
+- **The competition:** how much is available, how long it stays available and what new supply could change.
+- **Your conclusion:** a supported price range, a working appraisal figure and the questions still unanswered.
 
-Keep those answers with your two-area search pack. Use **Example 03: Test the demand** as the topic reference in the book companion at **martinhowardproperty.co.uk/book/companion/**. The numbered walkthrough library will build on this exercise as it develops.
+Use it on the three properties from your Chapter Two shortlist. For an ordinary single let, keep the exercise proportionate. For an HMO or serviced accommodation, investigate the more specific demand before relying on the income.
 
-If you cannot yet support the intended rent or sale price, mark it as an assumption. Investigate it before you use it to justify an offer.
+You are checking that your price and standard fit the market, and that the resulting income can support your plan.
 
-By now, you have a buying brief, a focused area and a clearer picture of who might want the finished property.
+There is still another question to answer.
 
-That is progress. But a customer wanting it does not mean you should buy it.
+A house can be easy to rent and still be an expensive mistake to buy. A healthy rent does not straighten a dipping roof, fix a title problem or explain a flood flag.
 
-An attractive house can still have a roof that needs investigating, a title that complicates the plan, knotweed that needs a specialist approach or a flood risk you have not understood.
+**Knowing that somebody will want it is one thing. Knowing what you are actually buying is the next.**
 
-**Before we decide what it could become, we need to establish what you are actually buying.**
-
-In Chapter Four, we walk through my four first checks and the questions they should make you ask before the excitement becomes a commitment.
+In Chapter Four, we walk through my four first checks before the excitement becomes a commitment.
