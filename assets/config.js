@@ -46,5 +46,10 @@ window.MHP = {
   // Set to true once the app accepts webinar sign-ups without marketing consent (same release as applyAction).
   webinarConsentOptional: true,
   // Show the optional mobile number on the webinar form. Set to true once the app release that stores PHONE is live.
-  collectPhone: true
+  collectPhone: true,
+  // Property Predator discount code for Before You Buy readers, shown on /book/thanks/.
+  // Letters, digits, - or _ only, up to 40 characters. Blank = the offer is hidden.
+  bookOfferCode: "",
+  // One short line describing the deal in your own words, e.g. "20% off your first three months". Blank = no deal line is shown.
+  bookOfferDetail: ""
 };
