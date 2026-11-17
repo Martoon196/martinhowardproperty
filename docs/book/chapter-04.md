@@ -70,7 +70,11 @@ External render can also crack or separate from the wall behind it. With permiss
 
 In older Welsh houses, pay attention to where the main house meets a rear addition. Different construction and movement at that junction can produce cracking. Sometimes an appropriate repair is manageable. Sometimes more investigation is needed before a repair can be designed.
 
-Do not assume every junction crack needs underpinning. Equally, stitching and fresh plaster are not a cure for a cause you have not established.
+Use your head when you look at that junction. Are the floors in both sections broadly level? Are the frames straight? Is the separation confined to where the two parts meet, or are there other signs of movement?
+
+Those observations help you distinguish a local junction problem from something affecting more of the building. A gap can look dramatic without telling you how much the foundations have moved. Where the cause is understood and appropriate repairs are established, tying or stitching the junction and making good may be a manageable job.
+
+Do not jump from “crack” to “underpinning”. Work out what you are actually pricing.
 
 I also look at how the upstairs rooms sit above the ground-floor layout. Heavy partitions and inadequate support can be part of the explanation for a bowed floor. Age and the way a house was built matter.
 
@@ -84,11 +88,13 @@ A roof can look wrong in more than one direction. One side might appear lower, o
 
 Look from more than one safe position. A photograph from the front may hide what you can see from the side or further along the street.
 
-One thing to investigate is a change from lighter slates to heavier tiles. The original roof may not have been designed for the extra load. That can require properly designed strengthening.
+A visible dip or bow tells me that the roof structure is not holding the line I expect. Something about its support, loading, condition or past construction needs explaining. I take that seriously even when the roof is not leaking.
 
-A dip does not tell you by itself whether timber is rotten, overloaded, damaged or affected by an older alteration. It does tell you to look more closely, even if nobody reports a leak.
+On an older house with replacement tiles, investigate the extra weight first. The roof may have been designed for lighter slates, with no suitable strengthening for the heavier covering. Get into the roof space safely, or have it inspected, and establish the condition of the timbers and support before committing to the purchase. The solution might be strengthening; damaged timber may need repair or replacement. Price what is actually required.
 
-Look at the roof edges too. Is water reaching the gutters? What is the condition of the underlay at the eaves? Are the gutters and downpipes carrying water away properly?
+Look for the evidence water leaves behind. Damp high up inside a room or black staining down the outside wall can point you towards a roof-edge, gutter or downpipe problem.
+
+You might view on a dry day, so you may not see water flowing. Look for the marks from repeated overflow, visible blockages, staining around joints and defects at the eaves. Then check the suspected source. The marks show where to investigate; they do not identify the cause on their own.
 
 The repair may involve a local detail, suitable eaves support or a more extensive reroof. Price the actual scope. If opening up a roof exposes further work, you need money and time available to deal with it.
 
@@ -116,9 +122,15 @@ A lender's valuation is not your refurbishment scope or a substitute for a condi
 
 ### Second: is there Japanese knotweed?
 
-The words “Japanese knotweed” can make buyers disappear before they have asked another question.
+**I love Japanese knotweed.**
 
-My approach is to investigate it properly.
+Not because I want it growing everywhere. Because the words can make other buyers disappear before they have asked another question.
+
+They see a reason to run. I see a reason to investigate the price.
+
+For a straightforward purchase where an appropriate management plan deals with the problem and meets the lender's requirements, the route can be simple: get the specialist assessment, pay for the plan and move the deal forward. We did exactly that at Trebanos.
+
+If other buyers have discounted a property more heavily than the cost and implications justify, that can create value for me. The margin comes from understanding the issue that frightened them.
 
 Knotweed can be manageable, and an acceptable management plan can help make a property mortgageable. Lender policies vary, so confirm the requirements for the actual property and finance product.
 
@@ -170,7 +182,9 @@ Think about how much lease will remain when you sell or refinance. An 85-year le
 
 Do not wait until 75 years to start asking. Under the flat-lease extension rules applying at the time of writing, the 80-year threshold can be particularly important to cost. Get current specialist advice; leasehold reforms and the rules for different property types need checking.
 
-Property Predator's lease tools can help you explore the effect of the remaining term and estimate relevant lease-extension or freehold-purchase costs where supported. An estimate is a starting point, not a binding price or confirmation that you qualify for a statutory route.
+Property Predator's lease tools calculate an indicative statutory freehold-purchase value and show you visually how the property's value changes as the lease shortens. You can see the effect over time rather than trying to hold the whole calculation in your head.
+
+Use that to assess the purchase, your likely holding period and the point at which dealing with the lease needs to become part of the plan. The calculation is based on the inputs and applicable assumptions; your conveyancer and valuer confirm eligibility and the transaction figure.
 
 Do not put “sort lease later” in the spreadsheet and leave the cost blank.
 
