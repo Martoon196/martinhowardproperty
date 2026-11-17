@@ -178,6 +178,77 @@ Replacing finance can be a solution. It has to be available, affordable and achi
 
 “Someone will refinance it” is not the same as an exit you have investigated.
 
+### A twelve-month bridge can be shorter than it looks
+
+On a small house that I intend to refurbish and sell, I prefer to allow fifteen months on the bridge rather than automatically taking twelve.
+
+That is not because the building work should take fifteen months. It is because the loan has to cover the journey to sale completion.
+
+A well-organised team might turn around a straightforward three-bedroom refurbishment in four to six weeks. But on a smaller project you may be coordinating individual trades, with gaps between visits and people fitting your work around other jobs.
+
+What if somebody does not turn up? What if you need to replace a trade? What if the work takes six months?
+
+Then you put it on the market. It takes three months and a couple of price reductions to agree a sale. The buyer's purchase takes another four months to complete.
+
+| Stage | Illustrative time |
+|---|---:|
+| Refurbishment | 6 months |
+| Marketing to an agreed sale | 3 months |
+| Agreed sale to completion | 4 months |
+| Total | 13 months |
+
+You are a month beyond a twelve-month term.
+
+The buyer may still intend to buy. The house may be finished. Neither repays the lender on the date the loan falls due.
+
+If you cannot repay or agree an extension, you can face a funding shortfall and consequences under the loan terms. Rebridging may be an option, but it is another application, another cost and another timetable.
+
+The existing loan may have an exit fee, while the replacement facility has an arrangement fee and further costs. A couple of thousand pounds at each end can take a noticeable bite out of a small flip's profit. Check which charges were already in your budget and which are genuinely additional.
+
+You may also be borrowing on different terms. Do not assume the next lender will offer what the first one did.
+
+That is why I like to add three months when arranging a bridge for this sort of project. I am building some room into the timetable before I need it.
+
+Compare the actual terms, including extension arrangements, repayment charges and how interest is calculated. A fifteen-month term is a buffer, not a reason to stop managing the programme.
+
+**Choose the term around when the lender gets repaid, not when the builder expects to finish.**
+
+### Vivian Street: eight months just to buy it
+
+One of our early purchases was number 8 Vivian Street in Swansea.
+
+It took eight months to purchase.
+
+The delay was on the seller's legal side. Whatever progress we thought we were making, we were still waiting to complete.
+
+In that time, we could potentially have bought another house, refurbished it and refinanced it.
+
+That experience is one reason I like a traditional auction purchase with a clear contractual completion deadline. On some deals that can be around a month, but you must read the actual auction conditions: the deadline and commitment depend on the contract and auction method.
+
+The attraction is the defined process. The checks and funding still need to be ready for it.
+
+Now imagine being on the other side of a slow transaction. You own the property. The work is done. Your buyer is taking longer than expected.
+
+Meanwhile, your short-term finance keeps costing money.
+
+Using the sort of monthly rates you may encounter, the interest on a £100,000 balance would be:
+
+| Illustrative monthly rate | Interest for one month |
+|---|---:|
+| 1.0% | £1,000 |
+| 1.1% | £1,100 |
+| 1.2% | £1,200 |
+
+Those are simple illustrations on an unchanged balance, before fees or any compounding. They are not product quotes.
+
+Four additional months at 1.2% would be £4,800 on that balance before other costs. A larger loan makes the same delay more expensive.
+
+If the delay also carries you past the finance term, the problem can become more than another month's interest.
+
+So keep asking what is needed to complete the sale, who is dealing with it and whether the expected date still fits the funding.
+
+**A buyer saying yes does not stop your interest bill. Completion does.**
+
 ### “We can always rent it out”
 
 If a planned sale disappoints, renting may be a useful alternative.
@@ -250,18 +321,6 @@ Keep investors informed as the project changes, and deal with agreements properl
 Surprising someone with a delay shortly before they expect their money back makes an already difficult situation harder.
 
 The same discipline applies to your own commitments. Do not spend an expected capital release on paper three times before the lender has even valued the property.
-
-### Put the exit through Property Predator
-
-Use Property Predator to compare the financial results of the routes you are considering.
-
-Look at the sale outcome after costs, the refinance proceeds, the money left invested and the cash flow if you hold.
-
-Change the important assumptions. What happens at a lower valuation? What if you achieve less rent? What does a longer selling period do?
-
-Keep the evidence and broker discussions with the report.
-
-The calculations should help you make a decision, rather than give an optimistic label to an exit you have not checked.
 
 ### Your exit test
 
