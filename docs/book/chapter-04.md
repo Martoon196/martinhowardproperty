@@ -1,22 +1,40 @@
 # Chapter 4
 ## What Am I Actually Buying?
 
-The kitchen is awful. The carpets smell. The garden looks as though nobody has touched it for ten years.
+**“If it stinks of wee, think of me.”**
 
-That might be an opportunity.
+That is what I tell agents.
 
-The house next door has fresh paint, a new kitchen and lovely photographs. That might be an opportunity too. Or the fresh finish might be distracting you from something much more expensive.
+The worn-out kitchen, the carpets nobody wants to walk on, the garden that has disappeared under years of growth: those are exactly the sort of properties I want them to remember me for.
 
-When I view a property, I want to get past the presentation quickly.
+Other buyers see a mess. I want to know what it will cost to sort out, what the result could be worth and whether there is enough left in the deal.
 
-I start with four things:
+There are two ways I look for the margin: buy below the value I can support with evidence, or improve what the property is worth. Sometimes a deal offers both.
+
+Improvement might mean a refurbishment. It might mean using roof space, extending or developing land. Those bigger plans need their own checks on structure, access and permissions. Some work may fall within permitted development; some needs a planning application. The rules differ between England and Wales, and the proposed work has to qualify.
+
+You cannot buy the word “potential” and assume it comes with permission.
+
+And sometimes the property does not need a major refurbishment at all.
+
+### The value was already there
+
+We bought a refurbished property on Clare Street in Swansea for an investor. It was already nicely done, but the seller was running out of time on bridging finance and needed a quick sale.
+
+The opportunity was in the purchase price and the way the property was brought back to market.
+
+I went up with my lawnmower and cut the overgrown lawn. We took new photographs and put it with a higher-end agent. It sold a few weeks later at a higher price, without us carrying out a major refurbishment.
+
+I would check the completion statements before quoting the exact figures. The lesson does not depend on pretending I remember them to the pound: sometimes the value is already there, and a seller's timetable creates an opportunity to buy below it.
+
+But whether a house looks dreadful or lovely, I still start with the same four checks:
 
 1. Is everything straight and true?
 2. Is there Japanese knotweed?
 3. Are there title or tenure issues?
 4. What is the actual flood position?
 
-These are my first checks, rather than the whole buying process. They help me spot questions that could change the cost, funding or practicality of the deal before I get carried away choosing the kitchen.
+These are four things that can seriously change the deal. I want to understand them before the kitchen gets my attention.
 
 ### First: is it straight and true?
 
@@ -26,37 +44,61 @@ Are the lines broadly where you would expect them to be?
 
 A floor that slopes, a frame that looks twisted or a ceiling that dips gives me something to investigate. So does cracking that appears alongside those changes.
 
-It does not tell me the cause.
+Straight and true is a useful first screen. It is not proof that every hidden part of the building is sound.
 
-An old house may have uneven features that have been there for years. Another property may have a problem that needs significant work. Your first viewing is not the moment to decide between them by guesswork.
+#### Old-house quirks or a problem that needs work?
 
-You are spotting a question: what has happened here, and does it matter to my purchase?
+A crack does not automatically mean a house is falling down. Older houses move, materials shrink and finishes crack. The useful questions are where the crack is, its shape, whether it continues through the underlying structure and whether it is changing.
+
+A gap wide enough to put a finger into would certainly get my attention. But I would not wait for that before investigating something suspicious: width alone does not establish the cause or seriousness.
+
+External render can also crack or separate from the wall behind it. With permission, a light tap may help identify a hollow-sounding area. That can suggest detached render; it does not prove the underlying wall is sound. You still need to understand what requires repair.
+
+In older Welsh houses, pay attention to where the main house meets a rear addition. Different construction and movement at that junction can produce cracking. Sometimes an appropriate repair is manageable. Sometimes more investigation is needed before a repair can be designed.
+
+Do not assume every junction crack needs underpinning. Equally, stitching and fresh plaster are not a cure for a cause you have not established.
+
+I also look at how the upstairs rooms sit above the ground-floor layout. Heavy partitions and inadequate support can be part of the explanation for a bowed floor. Age and the way a house was built matter.
+
+The opportunity may be in understanding a defect that frightened other buyers. But before removing a wall or adding support, establish what it carries and what work is appropriate. A wall that looks like a partition may still have a structural role.
+
+Your advantage is discernment: knowing what you are looking at, when you need a more specific answer and what the remedy will cost.
 
 #### Look along the roof, not just at it
 
-A roof can look wrong in more than one direction.
-
-You might notice that one side appears lower. You might also see a dip or bow along a line that you expected to be straight.
+A roof can look wrong in more than one direction. One side might appear lower, or there may be dips and bows along a line you expected to be straight.
 
 Look from more than one safe position. A photograph from the front may hide what you can see from the side or further along the street.
 
-Record what caught your eye. “Dip visible near the middle of the roof when viewed from the opposite pavement” gives a surveyor something useful to investigate.
+One thing to investigate is a change from lighter slates to heavier tiles. The original roof may not have been designed for the extra load. That can require properly designed strengthening.
 
-“Roof seems a bit dodgy” is less helpful.
+A dip does not tell you by itself whether timber is rotten, overloaded, damaged or affected by an older alteration. It does tell you to look more closely, even if nobody reports a leak.
 
-Do not climb onto a roof or enter an unsafe space to improve your viewing notes. Get the right person to inspect it.
+Look at the roof edges too. Is water reaching the gutters? What is the condition of the underlay at the eaves? Are the gutters and downpipes carrying water away properly?
 
-#### Follow the question through
+The repair may involve a local detail, suitable eaves support or a more extensive reroof. Price the actual scope. If opening up a roof exposes further work, you need money and time available to deal with it.
 
-If something looks out of line, ask about its history and any reports, repairs or monitoring. Then instruct the appropriate survey or specialist investigation.
+#### Damp: start by finding the water
 
-Tell the professional what you noticed and what you plan to do with the property. You want advice that answers your question, rather than a document you assume must cover it.
+Some of the damp problems I have dealt with have involved blocked or ineffective gutters. Others have been in houses left cold and empty, where condensation and cold surfaces were part of the picture.
 
-A lender's valuation is not a substitute for your own condition survey. Its purpose is to help the lender assess its security; it may not tell you about work you will need to pay for.
+That experience is why I look at the basics before assuming every damp patch needs an expensive treatment.
 
-You need to understand the cause, the scope of any work and the effect on your budget and programme.
+Is a gutter overflowing? Is a downpipe leaking? Is water getting behind the gutter instead of into it? Is there evidence of a roof or plumbing leak? What is happening with heating and ventilation?
 
-A cheap quote for redecorating does not answer a structural question.
+Find the source of moisture. A clear gutter will not cure every damp problem, and heating will not repair a leak. The diagnosis should explain the proposed work.
+
+#### Turn the findings into a scope
+
+A battered house can produce a long list of defects. That is expected when the reason you are buying it is that it needs work.
+
+You need to sort the list into what matters: maintenance, replacement, further investigation and work that could change the viability of the deal.
+
+You are making the investment decision. Use your own knowledge and team, and commission the specific advice needed to close a gap. If the question is structural, make sure the person answering it is competent to answer that question.
+
+A lender's valuation is not your refurbishment scope or a substitute for a condition survey. Equally, a long report is only useful if you understand what the findings mean for your costs and plan.
+
+**Know the work. Price the work. Set your offer accordingly.**
 
 ### Second: is there Japanese knotweed?
 
@@ -64,27 +106,21 @@ The words “Japanese knotweed” can make buyers disappear before they have ask
 
 My approach is to investigate it properly.
 
-Knotweed can be manageable. That does not mean every case is simple, cheap or acceptable to every lender.
+Knotweed can be manageable, and an acceptable management plan can help make a property mortgageable. Lender policies vary, so confirm the requirements for the actual property and finance product.
 
-You need to know what is actually there, where it is, how extensive it is and what management is appropriate for that property and your plans.
+Do not reduce the decision to one distance from the building. Establish what is there, its extent, any damage or effect on use, and the management needed.
 
-That starts with proper identification. Do not rely on an agent saying “I think it is something else”, or assume you could identify every plant during a winter viewing.
+If it is suspected, get specialist identification and assessment. Ask for the plan, costs, monitoring and any guarantees in writing. If work has already been done, get that paperwork too.
 
-If it is suspected, arrange an assessment by a suitably qualified specialist. Ask for the findings, proposed management, costs and any relevant guarantees in writing.
+Ask the seller and agent directly, and have your conveyancer raise the appropriate enquiries. Keep the replies and reports. A seller's “not known” answer is not an inspection confirming the absence of knotweed.
 
-If a plan already exists, get the actual paperwork. Find out what has been done, what remains to be done, what ongoing access is needed and whether the arrangement meets your lender's requirements.
+Your intended works matter. Managing growth beside an existing house is a different proposition from excavating an affected area for an extension.
 
-You are trying to answer three practical questions:
+That can bring substantial groundworks, soil handling and disposal costs into the project. There is no universal seven-metre excavation depth: the required approach and extent depend on specialist assessment of the site and proposed work.
 
-- Can I fund the purchase on acceptable terms?
-- What work, monitoring and ongoing obligations am I taking on?
-- How could this affect my intended use and eventual sale or refinance?
+Do not price the extension first and discover the knotweed implications later.
 
-Do not assume a treatment plan gives you permission to build wherever you like. If you want to extend, excavate or change the garden, tell the specialist before you price the project.
-
-The issue needs to be understood in the context of your deal.
-
-A seller calling it “sorted” is the start of a document request.
+**A seller calling it “sorted” is the start of a document request.**
 
 ### Third: what does the title actually give you?
 
@@ -106,19 +142,23 @@ The part underneath may be described as a creeping freehold.
 
 The name is less important than the arrangement. Who owns what? What supports it? Who must maintain it? What rights let you get access to repair it?
 
-Ask your conveyancer to explain the position and any implications for your lender. Do not assume a neighbour's verbal promise settles the question.
+The finance product matters here. Some lenders may decline an arrangement that another will consider. Get your broker working on that early, alongside your conveyancer's checks on the rights and obligations.
+
+The right lender does not fix a missing legal right. A sound title arrangement does not force every lender to accept it. You need both parts to work.
 
 These arrangements do not automatically make a property a bad purchase. They need to be understood before you rely on the property as a straightforward asset.
 
 #### Short leases
 
-With a leasehold property, find out how many years remain and what the lease requires.
+With a leasehold property, establish the years remaining, ground rent, service charges, relevant planned works and restrictions on what you can do.
 
-You need the actual lease term, charges, restrictions and information about relevant planned works. If an extension is part of your plan, get advice on the available route, timing and likely costs before treating it as an easy fix.
+Think about how much lease will remain when you sell or refinance. An 85-year lease today becomes a 75-year lease after ten years. That can change the value, funding options and cost of dealing with the lease.
 
-Also check your exit. You might be comfortable buying something that your future buyer or refinance lender will view differently.
+Do not wait until 75 years to start asking. Under the flat-lease extension rules applying at the time of writing, the 80-year threshold can be particularly important to cost. Get current specialist advice; leasehold reforms and the rules for different property types need checking.
 
-Do not put “extend lease later” in the spreadsheet and leave the cost blank.
+Property Predator's lease tools can help you explore the effect of the remaining term and estimate relevant lease-extension or freehold-purchase costs where supported. An estimate is a starting point, not a binding price or confirmation that you qualify for a statutory route.
+
+Do not put “sort lease later” in the spreadsheet and leave the cost blank.
 
 #### Check the outside against the paperwork
 
@@ -126,29 +166,45 @@ Tell your conveyancer about anything that looks unusual on site. Send photograph
 
 Does the title plan appear consistent with what you were shown? Is access clear? Are shared areas or structures involved? Is there anything about the layout that needs explaining?
 
+Rear access across terraces is a good example. People may use a route to take bins or garden waste out. Make sure the legal rights support the access your plan needs.
+
+Your legal team handles the documents. You help by telling them when the property on the ground appears different from what the paperwork suggests. Do not assume the seller's solicitor is guaranteeing the physical boundaries for you.
+
 A question raised before commitment can be investigated. A question first raised when you are trying to sell becomes your problem to resolve.
 
 ### Fourth: what is the actual flood position?
 
-I have bought properties that carried a flood flag even though the building stood uphill from the river.
+A flood flag needs context. A building high above a river is a different proposition from one sitting beside it at the same level.
 
-That is why I want to understand the property, rather than make the whole decision from a coloured area on a map.
+I want to understand where the building actually stands, rather than make the whole decision from its distance to water or a coloured area on a map.
 
-How does the building sit in relation to the water? Where does the ground rise or fall? Has the property flooded? What do the searches, reports and insurance terms tell us?
+Get the relevant searches and any further assessment needed. Then establish the lender's position and suitable insurance terms for your intended use.
 
-But being uphill from a river does not rule out every source of flooding. Water can arrive from heavy rain and surface runoff, drainage problems or other sources.
+Elevation can make a huge difference to river flooding. It does not rule out every other route water could take, including runoff and drainage problems. Keep the investigation specific to the site.
 
-The right response to a flag is a better question.
+### Trebanos: all four issues in one purchase
 
-Get the relevant searches and, where needed, a property-specific assessment. Give the assessor the actual building and your intended use to consider.
+We bought two houses on Swansea Road in Trebanos for £130,000 together.
 
-Then check insurance and funding separately. A reassuring conversation with a surveyor does not itself guarantee a mortgage offer or suitable insurance.
+They had title complications. They had a history of structural movement. There was Japanese knotweed. And their proximity to water raised a flood question.
 
-Ask for the actual insurance terms: the premium, flood excess, exclusions and conditions relevant to your intended use. Feed those costs into the appraisal.
+On paper, that could put plenty of buyers off. We worked through each issue.
 
-If your plan includes development or a change of use, investigate what the flood position means for that plan too. A building's existing use does not answer every question about what you want to do next.
+**The title.** Both houses were on one title. We arranged the purchase so that the houses would be separately titled, with the conveyancer dealing with the transfers and registration applications as part of the transaction. That put the process into the purchase rather than leaving it as an afterthought. It did not make registration processing instantaneous.
 
-“It's up a hill” is an observation. You still need the rest of the answer.
+**The structure.** There had been movement on the hillside, but remedial work had already been carried out. We obtained the supporting reports and certificates, and supplied them to the mortgage lenders. In our case, they accepted the evidence.
+
+We were not taking a guess that historic movement must be harmless. We had evidence of the work that had been done.
+
+**The knotweed.** We put a management plan in place and supplied it to the lenders. That dealt with their requirements for those purchases.
+
+**The flood question.** There was a canal below the houses and a river further down. Their proximity raised a question, but the height difference mattered. The surveyor considered the actual position of the houses, and the lenders were satisfied for the lending we sought.
+
+That result belongs to those properties and those lending decisions. It is not a promise that every hillside house or knotweed plan gets the same answer.
+
+We carried out some refurbishment as well. The opportunity came from resolving the questions behind the labels and understanding what remained to be spent.
+
+**Four issues did not make it four automatic reasons to walk away. They made it four pieces of work to complete.**
 
 ### A problem can be an opportunity—once you understand it
 
@@ -169,9 +225,13 @@ Put a cost against the solution where you can. Put a question against it where y
 
 An unknown cost is not a zero cost.
 
+And a quote is not a contingency. Keep an allowance for things you may uncover, alongside the work you already know about. A contingency gives a sensible plan room to cope; it does not make an uninvestigated problem affordable.
+
 ### These are the first checks, not the only checks
 
-There is still the rest of the building and its services to understand: damp, drainage, electrics, heating, fire safety and the condition of work already done, among other things.
+There is still the rest of the building and its services to understand: damp, drainage, electrics, heating, fire safety and the condition of work already done.
+
+Also flag substantial retaining walls, unusual construction, suspected asbestos and limitations on access or the intended use. Those can need specialist answers and serious money. A boiler and a rewire are not the largest possible bills left once the four first checks look acceptable.
 
 Our early project on Danygraig Road taught me how much trouble poor workmanship can create. It was a difficult refurbishment, with serious problems we had to work through before the property was properly up and running.
 
@@ -183,7 +243,7 @@ You are not trying to become a surveyor, electrician and conveyancer during one 
 
 ### Use the companion on your next viewing
 
-The free **Four First Checks** worksheet is in the book companion at **martinhowardproperty.co.uk/book/companion/**.
+The free printable **Four First Checks** worksheet is in the book companion at **martinhowardproperty.co.uk/book/companion/**.
 
 Use it to record what you noticed, what evidence is missing and who needs to answer the question. Take photographs with permission and keep reports with the property record.
 
