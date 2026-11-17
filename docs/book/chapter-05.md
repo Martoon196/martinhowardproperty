@@ -224,6 +224,32 @@ Keep household money, committed project cash and contingency separate. If your p
 
 Find the point at which the project needs the most cash. Can you cover it, including a reasonable delay?
 
+### Mozarts: when running late costs £50,000
+
+Our 26-bedroom HMO project, Mozarts, has gone far enough over programme that we need a replacement development-finance product.
+
+At the time of writing, we expect that change to cost us roughly £50,000 or more.
+
+Around £30,000 is setup and other additional fees. Then there is another £20,000-plus in interest.
+
+| Additional finance cost | Approximate amount |
+|---|---:|
+| Setup and other extra fees | £30,000 |
+| Additional interest | £20,000-plus |
+| Total expected additional cost | £50,000-plus |
+
+That is money the project now has to absorb because it has taken longer than planned.
+
+The building has not gained another bedroom because we paid those fees. The extra interest has not bought us a better kitchen. It is the cost of funding the longer journey.
+
+On a bigger project, a delay can mean much more than another month's interest. If it takes you beyond the existing finance term, you may need a new product, another set of fees and more time before the intended exit.
+
+So ask two questions when you test a delay: **what does the extra time cost, and what happens if the current finance runs out before we finish?**
+
+Then establish when those costs must be paid. Fees deducted from a new advance can leave less money available for the remaining work. Interest added to a loan still has to be repaid at the exit.
+
+This is why the programme, finance term and cash plan belong together. On larger projects, the amounts can become substantial very quickly.
+
 ### Make the deal answer three harder questions
 
 Before relying on your base appraisal, run three alternatives:
