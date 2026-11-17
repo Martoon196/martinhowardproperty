@@ -50,7 +50,7 @@ window.MHP = {
   // Property Predator discount code for Before You Buy readers, shown on /book/thanks/.
   // Capital letters, digits and - only, 3 to 64 characters, starting with a letter or digit (lower case is upper-cased).
   // Blank = the offer is hidden. Set it only once the code is confirmed live on Property Predator, e.g. "READ75".
-  bookOfferCode: "READ75",
+  bookOfferCode: "",
   // The Property Predator plan the code is for (sent in the link). One of pro_buyer, pro_investor, pro_business
   // or the same with _annual. Anything else = the offer is hidden.
   bookOfferPlan: "pro_buyer",
