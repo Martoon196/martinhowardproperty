@@ -19,7 +19,7 @@ And sometimes the property does not need a major refurbishment at all.
 
 ### The value was already there
 
-On a deal we did with Motherlode, we bought a refurbished property on Clare Street in Swansea for an investor. The cash purchase price was £95,000. It was already nicely done, but the seller was running out of time on bridging finance and needed a quick sale.
+We bought a refurbished property on Clare Street in Swansea for an investor. The cash purchase price was £95,000. It was already nicely done, but the seller was running out of time on bridging finance and needed a quick sale.
 
 The opportunity was in the purchase price and the way the property was brought back to market.
 
