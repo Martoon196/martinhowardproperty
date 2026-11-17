@@ -105,23 +105,53 @@ Do not multiply a room rent by seven because you can draw seven rectangles on a 
 
 **The number of rooms you can draw is not necessarily the number you can operate.**
 
+### Article 4: understand what the restriction actually covers
+
+We secured an HMO in an Article 4 area in a building that had been a nightclub and offices.
+
+That can sound contradictory if you treat “Article 4” as shorthand for “no HMOs”.
+
+It is not about knowing somebody in the planning department. It is about knowing the rules, the building's existing use and what the particular restriction covers.
+
+In our case, the distinction was that we were not taking an existing family house and turning it into shared accommodation. We were proposing a new use for a former commercial building.
+
+That gave us a different planning proposition, and we secured permission.
+
+Do not turn that example into another blanket rule. A former office or nightclub does not automatically qualify as an HMO. The proposal still has to be assessed on its own merits and against the relevant policies.
+
+But do not reject a building just because somebody says “Article 4” either.
+
+**Read what the restriction actually does. Then assess the proposal you are actually making.**
+
 ### Find the requirement that changes the layout
 
-Here is an illustrative example.
+A design change can alter the number of units, the cost and the end value. When that happens, go back to the appraisal. Paying for useful feasibility work can be much cheaper than buying an outcome that only exists in your sketch.
 
-You are considering converting space above a shop into flats. The floor area looks generous, and the asking price leaves room for a worthwhile project.
+### Reading: the planning route took more than one attempt
 
-You sketch a layout and estimate the sales.
+Our ten-flat commercial conversion in Reading shows how much work can sit behind the words “permitted development”.
 
-Then the design work identifies that the required access and fire arrangements take more space than you allowed. Other constraints affect the layout too.
+We intended to use PD, and that remains the route for the conversion. But our first prior-approval application failed because of noise from a neighbouring unit.
 
-The number or size of units changes. The cost changes. The end value may change.
+We had to revise the proposal to address noise protection.
 
-The opportunity has not necessarily disappeared. But the first appraisal is no longer the appraisal for the scheme you can build.
+The second application failed on the light and ventilation arrangements. That meant another change: a separate planning application for alterations to the building, including additional rooflights, followed by the PD application based on the revised building.
 
-Go back to the numbers.
+It was not a case of drawing ten flats, submitting a form and getting on with the build.
 
-This is why I want the important requirements brought into the design early. Paying for useful feasibility work can be much cheaper than buying an outcome that only exists in your sketch.
+We had to understand the objections, establish a route to address them and keep moving the proposal forward.
+
+The purchase price is £525,000. The projected gross development value is £2.1 million once the scheme is completed.
+
+That is a substantial opportunity, but the difference between those two figures is not the profit. Construction, professional fees, finance and all the other costs sit between them.
+
+And the planning process has already taken time and money. While we worked through the applications and changes, holding costs continued.
+
+This is the practical reason to understand the planning route before buying. You need to know what will be assessed, what evidence is required and whether a redesign could affect the value or viability of the scheme.
+
+A refusal does not always mean the opportunity is finished. It can identify a problem you can solve. But the next application costs time, and time can cost money.
+
+**If your appraisal allows for the building work but not the journey to getting that work approved, part of the project is missing.**
 
 ### Can you physically get the work done?
 
