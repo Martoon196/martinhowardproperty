@@ -25,7 +25,7 @@ The opportunity was in the purchase price and the way the property was brought b
 
 I went up with my lawnmower and cut the overgrown lawn. We took new photographs and put it with a higher-end agent. It sold a few weeks later at a higher price, without us carrying out a major refurbishment.
 
-I would check the completion statements before quoting the exact figures. The lesson does not depend on pretending I remember them to the pound: sometimes the value is already there, and a seller's timetable creates an opportunity to buy below it.
+We had found a seller who valued a quick, reliable completion. Sometimes the value is already there, and the seller's timetable creates an opportunity to buy below it.
 
 But whether a house looks dreadful or lovely, I still start with the same four checks:
 
